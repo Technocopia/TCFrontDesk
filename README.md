@@ -6,7 +6,7 @@ This is a full stack web app that powers an info kiosk for Technocopia. This was
 
 ```bash
 # Clone the repository
-git clone URL-TBD
+git clone https://github.com/Technocopia/TCFrontDesk.git
 
 # Go inside the directory
 cd TCFrontDesk
