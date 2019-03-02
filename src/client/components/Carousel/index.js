@@ -14,8 +14,7 @@ import './style.css'
 const TYPE_IMG = 'img'
 const TYPE_CALENDAR_AGENDA = 'calendar_agenda'
 
-//const DEFAULT_INTERVAL = 8000
-const DEFAULT_INTERVAL = null
+const DEFAULT_INTERVAL = 8000
 
 const MOCK_AGENDA_SLIDE_1 =           {
   type: 'calendar_agenda',
