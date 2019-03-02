@@ -1,0 +1,22 @@
+.tcfd-welcome {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  background-image: linear-gradient(141deg,#9fb8ad,#337c84 51%,#04afef 75%);
+ 
+  .carousel {
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+    overflow: hidden;
+  }
+
+  .ticker {
+      width: 100%;
+      height: 15%;
+      overflow: hidden;
+  }
+
+  font-size: 3rem;
+}

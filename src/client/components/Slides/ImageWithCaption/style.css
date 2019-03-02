@@ -1,0 +1,24 @@
+.tcft-slide-image-with-caption {
+  &-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    width: 45%;
+    overflow: hidden;
+    img {
+      height: 90%;
+      max-width: 840px;
+      max-height: 840px;
+      border-radius: .5rem;
+     }
+  }
+  .caption-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55%;
+    color: white;
+    padding: 2rem;
+  }
+}
