@@ -1,0 +1,57 @@
+.tcfd-ticker {
+  position: relative;
+  opacity: .8;
+  background-image: linear-gradient(#ffffff,#ffffff,#6688bb);
+  border-top: 2px solid #6688bb;
+  color: #113;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &-item {
+    display: flex;
+    position: absolute;
+    direction: rtl;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 1.2em;
+    &-enter {
+
+      left: 1920px;
+      transition: left 4s ease-in;
+
+      &-active {
+        left: 0px;
+      }
+
+      &-done {
+        left: unset;
+        right: auto;
+      }
+
+    }
+    &-exit {
+      left: unset;
+      right: auto;
+      max-width: 10000px;
+      transition: max-width 5s ease-in;
+
+      &-active {
+        max-width: 0;
+      }
+      
+      &-done {
+        max-width: 0;
+      }
+            
+    }
+  }
+
+  &-tmp-btn {
+    position: absolute;
+    font-size: 1rem;
+  }
+
+}

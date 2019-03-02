@@ -14,11 +14,8 @@ import './style.css'
 const TYPE_IMG = 'img'
 const TYPE_CALENDAR_AGENDA = 'calendar_agenda'
 
-const DEFAULT_INTERVAL = 8000
-
-
-
-
+//const DEFAULT_INTERVAL = 8000
+const DEFAULT_INTERVAL = null
 
 const MOCK_AGENDA_SLIDE_1 =           {
   type: 'calendar_agenda',
@@ -133,7 +130,7 @@ class Carousel extends React.Component {
           className="bootstrap-carousel">
           {slides.map((slide, i) =>
           <BootstrapCarousel.Item key={i}>
-            <div className="bootstrap-carousel-item">{this.section(slide)}</div>
+            <div className={`bootstrap-carousel-item`}>{this.section(slide)}</div>
           </BootstrapCarousel.Item>
           )}
         </BootstrapCarousel>

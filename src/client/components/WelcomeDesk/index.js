@@ -1,16 +1,19 @@
 import React from 'react'
 import DocumentMeta from 'react-helmet'
 import classNames from 'classnames'
+import Carousel from './../Carousel'
+import Ticker from './../Ticker'
+
 import './style.css';
 
-import Carousel from './../Carousel'
-//import Ticker from 'app/components/Ticker/Ticker'
+const preface = 'tcfd-welcome'
+
 class WelcomeDesk extends React.Component {
   static defaultProps = {}
 
   render = () => {
     return (
-      <div className="tcft-welcome">
+      <div className={preface}>
         <DocumentMeta>
           <title>Technocopia Welcome Desk</title>
 	  {<link
@@ -20,8 +23,8 @@ class WelcomeDesk extends React.Component {
             crossorigin="anonymous"
           />}
         </DocumentMeta>
-        <Carousel className="tcfd-welcome"/>
-        {/*<Ticker className={style.ticker} active={false} />*/}
+        <Carousel className={`${preface}-carousel`}/>
+        <Ticker className={`${preface}-ticker`} active={false} />
       </div>
     )
   }

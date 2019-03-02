@@ -1,4 +1,8 @@
 .tcft-slide-image-with-caption {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
   &-img-container {
     display: flex;
     justify-content: center;
@@ -13,7 +17,7 @@
       border-radius: .5rem;
      }
   }
-  .caption-container {
+  &-caption-container {
     display: flex;
     justify-content: center;
     align-items: center;
