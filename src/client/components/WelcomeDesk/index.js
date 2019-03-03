@@ -24,7 +24,7 @@ class WelcomeDesk extends React.Component {
           />}
         </DocumentMeta>
         <Carousel className={`${preface}-carousel`}/>
-        <Ticker className={`${preface}-ticker`} active={false} />
+        <Ticker className={`${preface}-ticker`} active={true} />
       </div>
     )
   }

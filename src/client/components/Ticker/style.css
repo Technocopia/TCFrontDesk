@@ -7,9 +7,18 @@
   width: 100%;
   height: 100%;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 
+
+  &-message {
+    position: relative;
+    white-space: nowrap;
+  }
+  
+  /*         style={{ overflow: 'hidden' }} */
+  
+/*
   &-item {
     display: flex;
     position: absolute;
@@ -53,5 +62,6 @@
     position: absolute;
     font-size: 1rem;
   }
-
+*/
 }
+
