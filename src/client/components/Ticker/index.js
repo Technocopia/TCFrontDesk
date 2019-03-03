@@ -1,18 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-
-//import { CSSTransition } from 'react-transition-group';
-
 import classNames from 'classnames'
 import style from './style.css'
 
 const preface = 'tcfd-ticker'
 
-//const message = "Terrific to end our collaborative workspace tour with a visit to YouthBuild Worcester members - these young folks, trained in construction and other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc"
-
-//const message = "123456789000000002000000000000000000003000000000000000000000400000000000000000000x"
-const message = "ABCD"
-
+const message = "Terrific to end our collaborative workspace tour with a visit to YouthBuild Worcester members - these young folks, trained in construction and other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc"
 
 const FPS = 400;
 const STEP = 1;
@@ -21,7 +14,7 @@ const TIMEOUT = 1 / FPS * 1000;
 class Ticker extends React.Component {
   static defaultProps = {
     message,
-    loop: false,
+    loop: true,
     timeBefore: 0,
     timeAfter: 0
   }
@@ -34,91 +27,80 @@ class Ticker extends React.Component {
   }
 
   state = {
-    animatedWidth: 0,
-    overflowWidth: 0
+    messageXPos: 0
   };
 
   componentDidMount() {
-    this.measureMessage();
-    this.startAnimation()
+    this.setState({ messageXPos: this.container.offsetWidth });
   }
 
   componentDidUpdate() {
-    this.measureMessage();
     this.startAnimation()
   }
 
   componentWillUnmount() {
-    clearTimeout(this.marqueeTimer);
+    clearTimeout(this.tickerTimer);
   }
 
   componentWillReceiveProps(nextProps) {
     const { message } = this.props
     if (message.length !== nextProps.message.length) {
-      clearTimeout(this.marqueeTimer);
-      this.setState({ animatedWidth: 0 });
-    }
-  }
-
-  measureMessage() {
-    const container = this.container;
-    const node = this.message;
-
-    if (container && node) {
-      const containerWidth = container.offsetWidth;
-      const textWidth = node.offsetWidth;
-      const overflowWidth = textWidth - containerWidth;
-      if (overflowWidth !== this.state.overflowWidth) {
-        this.setState({ overflowWidth });
-      }
+      clearTimeout(this.tickerTimer);
+      console.log('wrp')
+      this.setState({ messageXPos: this.container.offsetWidth });
     }
   }
 
   startAnimation = () => {
-//    console.log('starting animation')
     const { timeBefore, timeAfter, loop } = this.props
-    const { animatedWidth, overflowWidth } = this.state
-    clearTimeout(this.marqueeTimer);
-    const isLeading = animatedWidth === 0;
-    const timeout = isLeading ? timeBefore : TIMEOUT;
-    console.log(animatedWidth)
-    const animate = () => {
-      let newAnimatedWidth = animatedWidth + STEP;
-      const isRoundOver = newAnimatedWidth > overflowWidth;
+    const { messageXPos } = this.state
 
-      if (isRoundOver) {
+    const containerWidth = this.container.offsetWidth
+    const messageWidth = this.message.offsetWidth
+
+    clearTimeout(this.tickerTimer);
+    const isLeading = messageXPos >= containerWidth
+    const timeout = isLeading ? timeBefore : TIMEOUT;
+
+
+    
+    const animate = () => {
+      let newMessageXPos = messageXPos - STEP
+
+      const hasLeftScreen = messageXPos <= -messageWidth
+
+      if (hasLeftScreen) {
         if (loop) {
-          newAnimatedWidth = 0;
+          newMessageXPos = containerWidth
         } else {
           return;
         }
       }
 
-      if (isRoundOver && timeAfter) {
-        this.marqueeTimer = setTimeout(() => {
-          this.setState({ animatedWidth: newAnimatedWidth });
-          this.marqueeTimer = setTimeout(animate, TIMEOUT);
+      if (hasLeftScreen && timeAfter) {
+        this.tickerTimer = setTimeout(() => {
+          this.setState({ messageXPos: newMessageXPos });
+          this.tickerTimer = setTimeout(animate, TIMEOUT);
         }, timeAfter);
       } else {
-        this.setState({ animatedWidth: newAnimatedWidth });
-        this.marqueeTimer = setTimeout(animate, TIMEOUT);
+        this.setState({ messageXPos: newMessageXPos });
+        this.tickerTimer = setTimeout(animate, TIMEOUT);
       }
     }
 
-    this.marqueeTimer = setTimeout(animate, timeout);
+    this.tickerTimer = setTimeout(animate, timeout);
   }
 
   updateContainerRef = el => this.container = el
   updateMessageRef = el => this.message = el
   
   render = () => {
-    const { animatedWidth } = this.state
+    const { messageXPos } = this.state
     const { className, active, message } = this.props
 
     const style = {
-      'right': animatedWidth,
+      'left': messageXPos,
     }
-
     return (
       active && <div className={className}><div
         ref={this.updateContainerRef}
@@ -126,7 +108,7 @@ class Ticker extends React.Component {
       >
         <span
           ref={this.updateMessageRef}
-          className={`${preface}-message`}
+          className={`${preface}-message ${preface}-message-shadow`}
           style={style}
           title={message}
         >

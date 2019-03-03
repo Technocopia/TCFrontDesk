@@ -10,58 +10,29 @@
   /* justify-content: center; */
   align-items: center;
 
-
   &-message {
     position: relative;
     white-space: nowrap;
-  }
-  
-  /*         style={{ overflow: 'hidden' }} */
-  
-/*
-  &-item {
-    display: flex;
-    position: absolute;
-    direction: rtl;
-    overflow: hidden;
-    white-space: nowrap;
-    font-size: 1.2em;
-    &-enter {
+    font-size: 2em;
 
-      left: 1920px;
-      transition: left 4s ease-in;
-
-      &-active {
-        left: 0px;
-      }
-
-      &-done {
-        left: unset;
-        right: auto;
-      }
-
+    &-flame {
+      text-shadow:0px   0px  4px white,    0px  -5px  4px #FFFF33,
+        2px -10px  6px #FFDD33, -2px -15px 11px #FF8800,
+        2px -25px 18px #FF2200
     }
-    &-exit {
-      left: unset;
-      right: auto;
-      max-width: 10000px;
-      transition: max-width 5s ease-in;
 
-      &-active {
-        max-width: 0;
-      }
-      
-      &-done {
-        max-width: 0;
-      }
-            
+    &-neon {
+      color: white;
+      text-shadow: 0 0 1px  #ffffff, 0 0 2px  #ffffff,
+        0 0 3px  #ffffff, 0 0 4px  #ff00de,
+        0 0 7px  #ff00de, 0 0 8px  #ff00de,
+        0 0 10px #ff00de, 0 0 15px #ff00de;
     }
-  }
 
-  &-tmp-btn {
-    position: absolute;
-    font-size: 1rem;
+    &-shadow {
+	text-shadow: 3px 3px 3px #333399;
+    }
+
   }
-*/
 }
 
