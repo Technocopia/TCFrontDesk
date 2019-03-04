@@ -9,9 +9,21 @@ import './style.css';
 const preface = 'tcfd-welcome'
 
 class WelcomeDesk extends React.Component {
-  static defaultProps = {}
 
+  state = {
+    slides: []
+  }
+  
+  async componentDidMount() {
+    const response = await fetch('/api/carousel/slides')
+    const slides = await response.json()
+    this.setState({ slides })
+  }
+
+
+  
   render = () => {
+    const { slides } = this.state
     return (
       <div className={preface}>
         <DocumentMeta>
@@ -23,7 +35,7 @@ class WelcomeDesk extends React.Component {
             crossorigin="anonymous"
           />}
         </DocumentMeta>
-        <Carousel className={`${preface}-carousel`}/>
+        <Carousel slides={slides} className={`${preface}-carousel`}/>
         <Ticker className={`${preface}-ticker`} active={true} />
       </div>
     )
