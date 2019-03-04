@@ -1,19 +1,16 @@
 import React from 'react'
 import axios from 'axios';
 
-
-//import { noop } from 'app/utils'
 import BootstrapCarousel from 'react-bootstrap/Carousel';
 import classNames from 'classnames'
 
-// import { getSlides } from 'app/modules/carousel/carousel.selectors'
-// import { apiFetch } from 'app/modules/carousel/carousel.actions'
-
+import IFrame from './../Slides/IFrame'
 import ImageWithCaption from './../Slides/ImageWithCaption'
 import CalendarAgenda from './../Slides/CalendarAgenda'
 
 import './style.css'
 
+const TYPE_IFRAME = 'iframe'
 const TYPE_IMG = 'img'
 const TYPE_CALENDAR_AGENDA = 'calendar_agenda'
 
@@ -25,9 +22,15 @@ class Carousel extends React.Component {
   }
 
   section = item => {
+    let src = ''
     switch(item.type) {
+    case TYPE_IFRAME:
+      src = item.src
+      return <IFrame src={src} />
+      break
     case TYPE_IMG:
-      const { src, caption } = item
+      const { caption } = item
+      src = item.src
       return <ImageWithCaption src={src} caption={caption} />
     case TYPE_CALENDAR_AGENDA:
       const { events } = item

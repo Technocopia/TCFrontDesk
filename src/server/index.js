@@ -49,6 +49,12 @@ const MOCK_IMG_SLIDE_1 = {
   caption: '@astegink’s first zipper pouch class was a success! There are more classes coming for our brand new textiles studio. Check our website for all the details. . . . #sewing #handmade #makerspace #makersgonnamake #worcesterma'
 };
 
+const MOCK_IFRAME_SLIDE_1 = {
+  type: 'iframe',
+  src: '/directions'
+};
+
+
 const MOCK_IMG_SLIDE_2 = {
   type: 'img',
   src: 'https://static1.squarespace.com/static/51f533d1e4b0de43ba620290/51f58c3fe4b02c290dcd5762/58b5fddd6b8f5b9a422a694a/1488322077713/IMG_9604.JPG?format=1500w',
@@ -74,6 +80,7 @@ const MOCK_IMG_SLIDE_5 = {
 };
 
 const testSlides = [
+  MOCK_IFRAME_SLIDE_1,
   MOCK_IMG_SLIDE_1,
   MOCK_AGENDA_SLIDE_1,
   MOCK_IMG_SLIDE_1,
