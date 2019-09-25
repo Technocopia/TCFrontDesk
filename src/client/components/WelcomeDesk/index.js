@@ -11,19 +11,47 @@ const preface = 'tcfd-welcome'
 class WelcomeDesk extends React.Component {
 
   state = {
-    slides: []
+    slides: [],
+    ticker: ''
   }
   
-  async componentDidMount() {
-    const response = await fetch('/api/carousel/slides')
-    const slides = await response.json()
-    this.setState({ slides })
+  componentDidMount() {
+    this.loadSlides()
+    this.loadTicker()
   }
 
+  async loadSlides() {
+    try {
+      const response = await fetch('/api/carousel/slides')
+      if(!response.ok) {
+        throw new Error(response.statusText)
+      }
+      const slides = await response.json()
+      this.setState({ slides })
+    }
+    catch(e) {
+      console.error(e)
+      this.setState({ slides: [] })
+    }
+  }
 
+  async loadTicker() {
+    try {
+      const response = await fetch('/api/ticker/')
+      if(!response.ok) {
+        throw new Error(response.statusText)
+      }
+      const ticker = await response.json()
+      this.setState({ ticker })
+    }
+    catch(e) {
+      console.error(e)
+      this.setState({ ticker: null })
+    }
+  }
   
   render = () => {
-    const { slides } = this.state
+    const { slides, ticker } = this.state
     return (
       <div className={preface}>
         <DocumentMeta>
@@ -36,7 +64,7 @@ class WelcomeDesk extends React.Component {
           />}
         </DocumentMeta>
         <Carousel slides={slides} className={`${preface}-carousel`}/>
-        <Ticker className={`${preface}-ticker`} active={true} />
+        <Ticker className={`${preface}-ticker`} active={!!ticker} message={ticker} />
       </div>
     )
   }

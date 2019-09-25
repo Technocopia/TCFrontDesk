@@ -93,6 +93,9 @@ const testSlides = [
   MOCK_IMG_SLIDE_3,
 ];
 
+const testTicker = "Terrific to end our collaborative workspace tour with a visit to YouthBuild Worcester members - these young folks, trained in construction and other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc"
+
 app.get('/api/carousel/slides', (req, res) => res.send(testSlides));
+app.get('/api/ticker', (req, res) => res.send(JSON.stringify(testTicker)));
 
 app.listen(process.env.PORT || 9001, () => console.log(`Listening on port ${process.env.PORT || 9001}!`));

@@ -5,15 +5,13 @@ import style from './style.css'
 
 const preface = 'tcfd-ticker'
 
-const message = "Terrific to end our collaborative workspace tour with a visit to YouthBuild Worcester members - these young folks, trained in construction and other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc"
-
 const FPS = 400;
 const STEP = 1;
 const TIMEOUT = 1 / FPS * 1000;
 
 class Ticker extends React.Component {
   static defaultProps = {
-    message,
+    message: '',
     loop: true,
     timeBefore: 0,
     timeAfter: 0
@@ -31,11 +29,15 @@ class Ticker extends React.Component {
   };
 
   componentDidMount() {
-    this.setState({ messageXPos: this.container.offsetWidth });
+    if(this.props.active) {
+      this.setState({ messageXPos: this.container.offsetWidth });
+    }
   }
 
   componentDidUpdate() {
-    this.startAnimation()
+    if(this.props.active) {
+      this.startAnimation()
+    }
   }
 
   componentWillUnmount() {
@@ -46,8 +48,9 @@ class Ticker extends React.Component {
     const { message } = this.props
     if (message.length !== nextProps.message.length) {
       clearTimeout(this.tickerTimer);
-      console.log('wrp')
-      this.setState({ messageXPos: this.container.offsetWidth });
+      if(this.container) {
+        this.setState({ messageXPos: this.container.offsetWidth });
+      }
     }
   }
 
