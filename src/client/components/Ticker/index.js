@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import classNames from 'classnames';
-import style from './style.css';
+import './style.css';
 
 const preface = 'tcfd-ticker';
 
@@ -10,20 +9,6 @@ const STEP = 1;
 const TIMEOUT = 1 / FPS * 1000;
 
 class Ticker extends React.Component {
-  static defaultProps = {
-    message: '',
-    loop: true,
-    timeBefore: 0,
-    timeAfter: 0
-  }
-
-  static propTypes = {
-    message: PropTypes.string,
-    loop: PropTypes.bool,
-    timeBefore: PropTypes.number,
-    timeAfter: PropTypes.number
-  }
-
   state = {
     messageXPos: 0
   };
@@ -125,5 +110,21 @@ class Ticker extends React.Component {
     );
   }
 }
+
+Ticker.defaultProps = {
+  message: '',
+  loop: true,
+  timeBefore: 0,
+  timeAfter: 0,
+  active: true
+};
+
+Ticker.propTypes = {
+  message: PropTypes.string,
+  loop: PropTypes.bool,
+  timeBefore: PropTypes.number,
+  timeAfter: PropTypes.number,
+  active: PropTypes.bool
+};
 
 export default Ticker;

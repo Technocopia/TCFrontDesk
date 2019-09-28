@@ -1,6 +1,5 @@
 import React from 'react';
 import DocumentMeta from 'react-helmet';
-import classNames from 'classnames';
 import Carousel from '../Carousel';
 import Ticker from '../Ticker';
 

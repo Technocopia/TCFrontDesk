@@ -1,7 +1,5 @@
 import React from 'react';
-
 import BootstrapCarousel from 'react-bootstrap/Carousel';
-import classNames from 'classnames';
 
 import IFrame from '../Slides/IFrame';
 import ImageWithCaption from '../Slides/ImageWithCaption';
