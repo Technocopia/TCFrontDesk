@@ -39,7 +39,13 @@ const CalendarAgenda = ({ events }) => (
 );
 
 CalendarAgenda.propTypes = {
-  events: PropTypes.array.isRequired
+  events: PropTypes.arrayOf(PropTypes.shape({
+    title: PropTypes.string,
+    contactEmail: PropTypes.string,
+    contactName: PropTypes.string,
+    end: PropTypes.string,
+    start: PropTypes.string
+  })).isRequired
 };
 
 

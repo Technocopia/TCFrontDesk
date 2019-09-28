@@ -67,7 +67,9 @@ Carousel.defaultProps = {
 };
 
 Carousel.propTypes = {
-  slides: PropTypes.array,
+  slides: PropTypes.arrayOf(PropTypes.shape({
+    type: PropTypes.string
+  })),
   className: PropTypes.string
 };
 
