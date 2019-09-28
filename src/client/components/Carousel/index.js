@@ -21,7 +21,6 @@ class Carousel extends React.Component {
       case TYPE_IFRAME: {
         const { src } = item;
         return <IFrame src={src} />;
-        break;
       }
       case TYPE_IMG: {
         const { caption, src } = item;

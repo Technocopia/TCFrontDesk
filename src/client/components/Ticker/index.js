@@ -14,19 +14,10 @@ class Ticker extends React.Component {
   };
 
   componentDidMount() {
-    if (this.props.active) {
+    const { active } = this.props;
+    if (active) {
       this.setState({ messageXPos: this.container.offsetWidth });
     }
-  }
-
-  componentDidUpdate() {
-    if (this.props.active) {
-      this.startAnimation();
-    }
-  }
-
-  componentWillUnmount() {
-    clearTimeout(this.tickerTimer);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -37,6 +28,17 @@ class Ticker extends React.Component {
         this.setState({ messageXPos: this.container.offsetWidth });
       }
     }
+  }
+
+  componentDidUpdate() {
+    const { active } = this.props;
+    if (active) {
+      this.startAnimation();
+    }
+  }
+
+  componentWillUnmount() {
+    clearTimeout(this.tickerTimer);
   }
 
   startAnimation = () => {
@@ -78,9 +80,13 @@ class Ticker extends React.Component {
     this.tickerTimer = setTimeout(animate, timeout);
   }
 
-  updateContainerRef = el => this.container = el
+  updateContainerRef = (el) => {
+    this.container = el;
+  }
 
-  updateMessageRef = el => this.message = el
+  updateMessageRef = (el) => {
+    this.message = el;
+  }
 
   render = () => {
     const { messageXPos } = this.state;
@@ -116,7 +122,8 @@ Ticker.defaultProps = {
   loop: true,
   timeBefore: 0,
   timeAfter: 0,
-  active: true
+  active: true,
+  className: ''
 };
 
 Ticker.propTypes = {
@@ -124,7 +131,8 @@ Ticker.propTypes = {
   loop: PropTypes.bool,
   timeBefore: PropTypes.number,
   timeAfter: PropTypes.number,
-  active: PropTypes.bool
+  active: PropTypes.bool,
+  className: PropTypes.string
 };
 
 export default Ticker;
