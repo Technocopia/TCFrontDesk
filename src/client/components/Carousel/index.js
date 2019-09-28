@@ -1,4 +1,6 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+
 import BootstrapCarousel from 'react-bootstrap/Carousel';
 
 import IFrame from '../Slides/IFrame';
@@ -14,26 +16,24 @@ const TYPE_CALENDAR_AGENDA = 'calendar_agenda';
 const DEFAULT_INTERVAL = 8000;
 
 class Carousel extends React.Component {
-  static defaultProps = {
-    slides: []
-  }
-
   section = (item) => {
-    let src = '';
     switch (item.type) {
-      case TYPE_IFRAME:
-        src = item.src;
+      case TYPE_IFRAME: {
+        const { src } = item;
         return <IFrame src={src} />;
         break;
-      case TYPE_IMG:
-        const { caption } = item;
-        src = item.src;
+      }
+      case TYPE_IMG: {
+        const { caption, src } = item;
         return <ImageWithCaption src={src} caption={caption} />;
-      case TYPE_CALENDAR_AGENDA:
+      }
+      case TYPE_CALENDAR_AGENDA: {
         const { events } = item;
         return <CalendarAgenda events={events} />;
-      default:
+      }
+      default: {
         return <div>{JSON.stringify(item)}</div>;
+      }
     }
   }
 
@@ -50,7 +50,7 @@ class Carousel extends React.Component {
             className="bootstrap-carousel"
           >
             {slides.map((slide, i) => (
-              <BootstrapCarousel.Item key={i}>
+              <BootstrapCarousel.Item key={`${i}-${slide.type}`}>
                 <div className="bootstrap-carousel-item">{this.section(slide)}</div>
               </BootstrapCarousel.Item>
             ))}
@@ -61,5 +61,15 @@ class Carousel extends React.Component {
     );
   }
 }
+
+Carousel.defaultProps = {
+  slides: [],
+  className: ''
+};
+
+Carousel.propTypes = {
+  slides: PropTypes.array,
+  className: PropTypes.string
+};
 
 export default Carousel;
