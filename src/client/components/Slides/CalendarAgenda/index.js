@@ -15,7 +15,10 @@ const CalendarAgenda = ({ events }) => (
     <Table className={`${preface}-event-table`}>
       <tbody>
         {events.map((event, index) => (
-          <tr key={index}>
+          <tr
+            // eslint-disable-next-line react/no-array-index-key
+            key={index}
+          >
             <td className={`${preface}-event-date`} align="right">
               <div className="day">{new Date(event.start).toLocaleDateString(DATE_LOCALE, DATE_OPTIONS)}</div>
               <div className="time">

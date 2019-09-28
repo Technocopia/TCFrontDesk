@@ -49,7 +49,10 @@ class Carousel extends React.Component {
             className="bootstrap-carousel"
           >
             {slides.map((slide, i) => (
-              <BootstrapCarousel.Item key={`${i}-${slide.type}`}>
+              <BootstrapCarousel.Item
+              // eslint-disable-next-line react/no-array-index-key
+                key={`${i}-${slide.type}`}
+              >
                 <div className="bootstrap-carousel-item">{this.section(slide)}</div>
               </BootstrapCarousel.Item>
             ))}
