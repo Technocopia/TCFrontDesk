@@ -1,4 +1,6 @@
 import React from 'react';
+import PropTypes from 'prop-types'
+
 import './style.css';
 
 const preface = 'tcft-slide-image-with-caption';
@@ -16,4 +18,14 @@ class ImageWithCaption extends React.Component {
     );
   }
 }
+
+ImageWithCaption.defaultProps = {
+  caption: ''
+}
+
+ImageWithCaption.propTypes = {
+  src: PropTypes.string.isRequired,
+  caption: PropTypes.string
+}
+
 export default ImageWithCaption;

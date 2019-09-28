@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types'
 import Table from 'react-bootstrap/Table';
 
 import './style.css';
@@ -16,7 +17,7 @@ class CalendarAgenda extends React.Component {
         <h1 className={`${preface}-header`}>Upcoming Events</h1>
         <Table className={`${preface}-event-table`}>
           <tbody>
-            {events && events.map((event, index) => (
+            {events.map((event, index) => (
               <tr key={index}>
                 <td className={`${preface}-event-date`} align="right">
                   <div className="day">{new Date(event.start).toLocaleDateString(DATE_LOCALE, DATE_OPTIONS)}</div>
@@ -41,4 +42,10 @@ class CalendarAgenda extends React.Component {
     );
   }
 }
+
+CalendarAgenda.propTypes = {
+  events: PropTypes.array.isRequired
+}
+
+
 export default CalendarAgenda;

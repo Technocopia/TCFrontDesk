@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types'
 
 import './style.css';
 
@@ -14,4 +15,9 @@ class IFrame extends React.Component {
     );
   }
 }
+
+IFrame.propTypes = {
+  src: PropTypes.string.isRequired
+}
+
 export default IFrame;
