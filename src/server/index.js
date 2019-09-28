@@ -8,8 +8,7 @@ app.use(express.static('dist'));
 // app.get('/api/getUsername', (req, res) => res.send({ username: os.userInfo().username }));
 
 
-
-const MOCK_AGENDA_SLIDE_1 =           {
+const MOCK_AGENDA_SLIDE_1 = {
   type: 'calendar_agenda',
   events: [
     {
@@ -41,7 +40,7 @@ const MOCK_AGENDA_SLIDE_1 =           {
       end: '2019-03-05T21:00:00-05:00'
     }
   ]
-}
+};
 
 const MOCK_IMG_SLIDE_1 = {
   type: 'img',
@@ -88,12 +87,12 @@ const testSlides = [
   MOCK_AGENDA_SLIDE_1,
   MOCK_IMG_SLIDE_3,
   MOCK_IMG_SLIDE_4,
-  MOCK_AGENDA_SLIDE_1,          
+  MOCK_AGENDA_SLIDE_1,
   MOCK_IMG_SLIDE_5,
   MOCK_IMG_SLIDE_3,
 ];
 
-const testTicker = "Terrific to end our collaborative workspace tour with a visit to YouthBuild Worcester members - these young folks, trained in construction and other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc"
+const testTicker = 'Terrific to end our collaborative workspace tour with a visit to YouthBuild Worcester members - these young folks, trained in construction and other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc';
 
 app.get('/api/carousel/slides', (req, res) => res.send(testSlides));
 app.get('/api/ticker', (req, res) => res.send(JSON.stringify(testTicker)));

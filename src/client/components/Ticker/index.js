@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 import PropTypes from 'prop-types';
-import classNames from 'classnames'
-import style from './style.css'
+import classNames from 'classnames';
+import style from './style.css';
 
-const preface = 'tcfd-ticker'
+const preface = 'tcfd-ticker';
 
 const FPS = 400;
 const STEP = 1;
@@ -29,14 +29,14 @@ class Ticker extends React.Component {
   };
 
   componentDidMount() {
-    if(this.props.active) {
+    if (this.props.active) {
       this.setState({ messageXPos: this.container.offsetWidth });
     }
   }
 
   componentDidUpdate() {
-    if(this.props.active) {
-      this.startAnimation()
+    if (this.props.active) {
+      this.startAnimation();
     }
   }
 
@@ -45,36 +45,35 @@ class Ticker extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    const { message } = this.props
+    const { message } = this.props;
     if (message.length !== nextProps.message.length) {
       clearTimeout(this.tickerTimer);
-      if(this.container) {
+      if (this.container) {
         this.setState({ messageXPos: this.container.offsetWidth });
       }
     }
   }
 
   startAnimation = () => {
-    const { timeBefore, timeAfter, loop } = this.props
-    const { messageXPos } = this.state
+    const { timeBefore, timeAfter, loop } = this.props;
+    const { messageXPos } = this.state;
 
-    const containerWidth = this.container.offsetWidth
-    const messageWidth = this.message.offsetWidth
+    const containerWidth = this.container.offsetWidth;
+    const messageWidth = this.message.offsetWidth;
 
     clearTimeout(this.tickerTimer);
-    const isLeading = messageXPos >= containerWidth
+    const isLeading = messageXPos >= containerWidth;
     const timeout = isLeading ? timeBefore : TIMEOUT;
 
 
-    
     const animate = () => {
-      let newMessageXPos = messageXPos - STEP
+      let newMessageXPos = messageXPos - STEP;
 
-      const hasLeftScreen = messageXPos <= -messageWidth
+      const hasLeftScreen = messageXPos <= -messageWidth;
 
       if (hasLeftScreen) {
         if (loop) {
-          newMessageXPos = containerWidth
+          newMessageXPos = containerWidth;
         } else {
           return;
         }
@@ -89,37 +88,42 @@ class Ticker extends React.Component {
         this.setState({ messageXPos: newMessageXPos });
         this.tickerTimer = setTimeout(animate, TIMEOUT);
       }
-    }
+    };
 
     this.tickerTimer = setTimeout(animate, timeout);
   }
 
   updateContainerRef = el => this.container = el
+
   updateMessageRef = el => this.message = el
-  
+
   render = () => {
-    const { messageXPos } = this.state
-    const { className, active, message } = this.props
+    const { messageXPos } = this.state;
+    const { className, active, message } = this.props;
 
     const style = {
-      'left': messageXPos,
-    }
+      left: messageXPos,
+    };
     return (
-      active && <div className={className}><div
-        ref={this.updateContainerRef}
-        className={preface}
-      >
-        <span
-          ref={this.updateMessageRef}
-          className={`${preface}-message ${preface}-message-shadow`}
-          style={style}
-          title={message}
+      active && (
+      <div className={className}>
+        <div
+          ref={this.updateContainerRef}
+          className={preface}
         >
-          {message}
-        </span>
-      </div></div>
-    )
+          <span
+            ref={this.updateMessageRef}
+            className={`${preface}-message ${preface}-message-shadow`}
+            style={style}
+            title={message}
+          >
+            {message}
+          </span>
+        </div>
+      </div>
+      )
+    );
   }
 }
 
-export default Ticker
+export default Ticker;
