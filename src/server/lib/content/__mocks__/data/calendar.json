@@ -1,0 +1,2553 @@
+{
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "etag": "\"p334el24rhjqe80g\"",
+    "items": [
+        {
+            "created": "2018-09-17T18:09:19.000Z",
+            "creator": {
+                "displayName": "Adam Zelny",
+                "email": "adam.zelny@technocopia.org"
+            },
+            "description": "This beginners class will introduce you to Inkscape, a free 2D design program used to create digital art for web or print, which can also be used to make things with Technocopia's laser and vinyl cutters. By the end of this 2 hour session, you will have made your first work of digital art!\n\nThings We'll Cover:\n\n- Introduction to the interface, tools and drop down menus\n- Working with basic shapes to make a scene\n- Understanding paths and nodes and how to manipulate them\n- The differences between pencil tool, pen tool and brush tool\n- How to personalize the side bar\n- How to use the text tool\n- Fun with filters\n- File saving and sharing\n\nComputers will be provided. Need help installing Inkscape on your own computer? Feel free to bring it along and we'll help!\n\nThis class is ages 16+. Youth aged 12-15 may attend for free, but must be accompanied by a paying adult.\n\nVisit the Inkscape homepage here: https://inkscape.org/en/\n\nPLEASE NOTE: Registration via Eventbrite is preferred to ensure a seat in the class, however, if you wish to pay by cash or check, please notify us immediately at info@technocopia.org.\nEventrbite link for registering:\nhttps://www.eventbrite.com/e/digital-design-for-makers-inkscape-basics-tickets-48298746852",
+            "end": {
+                "dateTime": "2019-10-01T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3106017909854000\"",
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=MGxoZ3BsYWNrNGRicWxzY2JjcTVxbHU0dWtfMjAxOTEwMDFUMjMwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "0lhgplack4dbqlscbcq5qlu4uk_R20190702T230000@google.com",
+            "id": "0lhgplack4dbqlscbcq5qlu4uk_20191001T230000Z",
+            "kind": "calendar#event",
+            "location": "Computer Lab",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-01T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "0lhgplack4dbqlscbcq5qlu4uk_R20190702T230000",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-01T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Digital Design for Makers: Inkscape Basics",
+            "updated": "2019-03-19T15:22:34.927Z"
+        },
+        {
+            "created": "2019-03-28T14:36:04.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Laser cutters are used to produce precise cuts and engravings with several materials based on 2D vector and raster images. The machines are commonly used for anything from industrial manufacturing to small and intricate art projects. This class will teach how to operate Technocopia\u2019s Full Spectrum laser cutter safely and effectively. Students will learn the process of creating and preparing a simple design in Inkscape, opening it in Retina Engrave, and then operating the laser to produce the cut. We will also learn how to calibrate the auto focus sensor, and discuss what types of materials are appropriate to use with the machine.\n\n\nThis tool is available for family use! Any youth between the ages of 12-17 may take this class with a participating adult. For our student registration form and for class policies, please visit: http://technocopia.org/tool-training/. \n\n\nTo register on Eventbrite please visit this link here:\nhttps://www.eventbrite.com/e/tool-training-laser-cutter-tickets-59529608662\n\n\nAbout the Instructor\n\nAdam Zelny is a multimedia designer and educator in the fields of 2D and 3D CAD, digital fabrication, audio and video production, music, and design oriented art. As a part of Technocopia's administration team, he has helped build the education platform for tool training and workshop programs, and actively teaches classes for laser cutter and 3D printer workflows. His role as an educator involves incorporating art into STEM oriented classes, crafting professional development workshops for fellow teachers, and using digital fab tools to learn and make useful things that look good. As a former board member, Adam played a role in relocating and expanding Technocopia's facility and programs, and continues to volunteer his time to growing the makerspace. Adam thinks that sci-fi is a great genre, and enjoys the occasionally good video game.",
+            "end": {
+                "dateTime": "2019-10-05T15:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3107569622746000\"",
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=NGsxZTRwYXBzNDlwdW42c2M5ZzFtYzVlaWtfMjAxOTEwMDVUMTcwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "4k1e4paps49pun6sc9g1mc5eik_R20190406T170000@google.com",
+            "id": "4k1e4paps49pun6sc9g1mc5eik_20191005T170000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-05T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "4k1e4paps49pun6sc9g1mc5eik_R20190406T170000",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-05T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Laser Cutter Tool Training",
+            "updated": "2019-03-28T14:53:31.373Z"
+        },
+        {
+            "created": "2014-09-19T14:27:01.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Come hang out with the cool cats at the Technocopia makerspace and work on your creative projects, whether analog or digital, wood or wires, painting or programming. Making stuff is more fun when you do it together! Now also featuring our Free Design Studio! Participate in design and screen printing during your visit!\n\nHow to find us: http://technocopia.org/directions\n\nNo need to RSVP, but you can do that here: http://www.meetup.com/Technocopia-Open-Hack-and-Craft-Nights/",
+            "end": {
+                "dateTime": "2019-10-03T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3124198659796000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmtwNjJjMWs2Y3EzZWI5bTZrcWo4YjlrNmNyMzRiOXBjNWg2OGI5aWM1Z2ppY3BtNzBwMzJlMW9jOF8yMDE5MTAwM1QyMzAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8@google.com",
+            "id": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8_20191003T230000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland Street, Sixth Floor, Worcester, MA, United States",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-03T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-03T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Open Hacks & Crafts @Technocopia",
+            "transparency": "transparent",
+            "updated": "2019-07-02T20:28:49.898Z"
+        },
+        {
+            "created": "2014-09-19T14:27:01.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Come hang out with the cool cats at the Technocopia makerspace and work on your creative projects, whether analog or digital, wood or wires, painting or programming. Making stuff is more fun when you do it together! Now also featuring our Free Design Studio! Participate in design and screen printing during your visit!\n\nHow to find us: http://technocopia.org/directions\n\nNo need to RSVP, but you can do that here: http://www.meetup.com/Technocopia-Open-Hack-and-Craft-Nights/",
+            "end": {
+                "dateTime": "2019-10-10T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3124198659796000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmtwNjJjMWs2Y3EzZWI5bTZrcWo4YjlrNmNyMzRiOXBjNWg2OGI5aWM1Z2ppY3BtNzBwMzJlMW9jOF8yMDE5MTAxMFQyMzAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8@google.com",
+            "id": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8_20191010T230000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland Street, Sixth Floor, Worcester, MA, United States",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-10T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-10T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Open Hacks & Crafts @Technocopia",
+            "transparency": "transparent",
+            "updated": "2019-07-02T20:28:49.898Z"
+        },
+        {
+            "created": "2014-09-19T14:27:01.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Come hang out with the cool cats at the Technocopia makerspace and work on your creative projects, whether analog or digital, wood or wires, painting or programming. Making stuff is more fun when you do it together! Now also featuring our Free Design Studio! Participate in design and screen printing during your visit!\n\nHow to find us: http://technocopia.org/directions\n\nNo need to RSVP, but you can do that here: http://www.meetup.com/Technocopia-Open-Hack-and-Craft-Nights/",
+            "end": {
+                "dateTime": "2019-10-17T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3124198659796000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmtwNjJjMWs2Y3EzZWI5bTZrcWo4YjlrNmNyMzRiOXBjNWg2OGI5aWM1Z2ppY3BtNzBwMzJlMW9jOF8yMDE5MTAxN1QyMzAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8@google.com",
+            "id": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8_20191017T230000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland Street, Sixth Floor, Worcester, MA, United States",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-17T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-17T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Open Hacks & Crafts @Technocopia",
+            "transparency": "transparent",
+            "updated": "2019-07-02T20:28:49.898Z"
+        },
+        {
+            "created": "2014-09-19T14:27:01.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Come hang out with the cool cats at the Technocopia makerspace and work on your creative projects, whether analog or digital, wood or wires, painting or programming. Making stuff is more fun when you do it together! Now also featuring our Free Design Studio! Participate in design and screen printing during your visit!\n\nHow to find us: http://technocopia.org/directions\n\nNo need to RSVP, but you can do that here: http://www.meetup.com/Technocopia-Open-Hack-and-Craft-Nights/",
+            "end": {
+                "dateTime": "2019-10-24T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3124198659796000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmtwNjJjMWs2Y3EzZWI5bTZrcWo4YjlrNmNyMzRiOXBjNWg2OGI5aWM1Z2ppY3BtNzBwMzJlMW9jOF8yMDE5MTAyNFQyMzAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8@google.com",
+            "id": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8_20191024T230000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland Street, Sixth Floor, Worcester, MA, United States",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-24T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "6kp62c1k6cq3eb9m6kqj8b9k6cr34b9pc5h68b9ic5gjicpm70p32e1oc8",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-24T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Open Hacks & Crafts @Technocopia",
+            "transparency": "transparent",
+            "updated": "2019-07-02T20:28:49.898Z"
+        },
+        {
+            "created": "2019-07-21T21:43:52.000Z",
+            "creator": {
+                "email": "annie.stegink@technocopia.org"
+            },
+            "description": "This class is for people with little to no sewing machine experience. Students will learn the parts of a sewing machine, how to thread, operate and maintain machine, and how to use the tools available in the sewing area of the textile studio at Technocopia. The students will learn on a Singer Heavy Duty 4423 machine the following: power on/off, pedal attachment, backstitch button, handwheel operation, winding bobbins, loading bobbins, threading machine, changing needles, safe cutting with rotary mats and rulers, simple maintenance of machines, stitch and tension adjustments, and shop standards of cleanliness and organization.\n\nThe practice project for this class will be the creation of a small credit or business card wallet. A small selection of free fabric is available to students for this project, but students are also welcome to bring in their own piece of quilters cotton (\u00bc of yard will be plenty) if they prefer.\n\nSuccessful completion of this class will result in certification of Technocopia members to use the sewing machines in the textile studio. For members with more advanced sewing experience, contact annie.stegink@technocoipa.org to discuss a more appropriate certification process.\n\nEventbrite link for registration:\nhttps://www.eventbrite.com/e/tool-training-sewing-machine-tickets-55596187694?aff=ebdssbdestsearch",
+            "end": {
+                "dateTime": "2019-10-01T20:00:00-04:00"
+            },
+            "etag": "\"3127490865504000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MDE3cDZ1MTRpZHM2ODcwZ2JwNWE0dHQ1bjAgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "017p6u14ids6870gbp5a4tt5n0@google.com",
+            "id": "017p6u14ids6870gbp5a4tt5n0",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-01T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Sewing Machine Tool Training",
+            "updated": "2019-07-21T21:43:52.752Z"
+        },
+        {
+            "created": "2019-07-21T21:47:41.000Z",
+            "creator": {
+                "email": "annie.stegink@technocopia.org"
+            },
+            "description": "**This class has a prerequisite. See below** A serger is a machine that uses up to four threads to sew a seam, cut off the raw edges, and finish the edges in a neat stitch pattern all at the same time. This class is for people with little to no serger experience, however students must have sewing machine skills (see below for more details). Students will learn the parts of a serger and how to thread, operate, and maintain the serger machine. The practice project for this class will be the creation of a tool roll up pouch. A small selection of free fabric is available to students for this project, but students are also welcome to bring in their own piece (1/2 yd) of heavy, stiff fabric (such as home decor fabric, duck canvas, or a heavy cotton) if they prefer. **In order to take this class, students must have successfully passed the sewing machine tool training at Technocopia** Successful completion of this class will result in certification of Technocopia members to use the serger machine in the textile studio. For members with more advanced serging experience, contact annie.stegink@technocoipa.org BEFORE signing up for serger class to discuss an alternative certification process. \n\n\nEventbrite link for registration here: \nhttps://www.eventbrite.com/e/tool-training-serger-tickets-52529934448?aff=ebdssbdestsearch",
+            "end": {
+                "dateTime": "2019-10-22T19:30:00-04:00"
+            },
+            "etag": "\"3127491323912000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmNzb282YWY4azRrMmdvN25uZzl0b2lrdDAgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "6csoo6af8k4k2go7nng9toikt0@google.com",
+            "id": "6csoo6af8k4k2go7nng9toikt0",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-22T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Serger Tool Training",
+            "updated": "2019-07-21T21:47:41.956Z"
+        },
+        {
+            "created": "2019-07-21T21:51:32.000Z",
+            "creator": {
+                "email": "annie.stegink@technocopia.org"
+            },
+            "description": "This class will teach you how to use our new Tippmann Boss Leather Stitcher and Hand Press to make a variety of leather projects in our new textiles studio. Each student will learn how to wind a bobbin, thread, and operate the Tippmann Boss, as well as learning the basics at using the hand press to install snaps, rivets, and more. These tools can be used to make many interesting leather projects including wallets, cuff bracelets, knife sheaths, and more. Each student will practice their new skills by making keychains that will include some stitching and a snap or rivet.<br /><br />No experience is needed for this class, and successful completion of the class results in tool certification for using the Tippmann Boss and hand press at Technocopia. For non-members, this makes students eligible to participate in upcoming project based classes, and for members, this results in free use of the machines during their membership hours.<br /><br /><a href=\"https://www.google.com/url?q=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ftippmann-boss-leather-stitcher-class-tickets-58883119997%3Faff%3Debdssbdestsearch&amp;sa=D&amp;ust=1570159803000000&amp;usg=AFQjCNHP4i0g-gLBRmrvLlZq9GBUW20QNg\" target=\"_blank\">Eventbrite link for registration</a>",
+            "end": {
+                "dateTime": "2019-10-15T19:30:00-04:00"
+            },
+            "etag": "\"3127491785910000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Njh1aGJuY2NxOWFkZ2lwZDVwNmhydnFlZ3QgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "68uhbnccq9adgipd5p6hrvqegt@google.com",
+            "id": "68uhbnccq9adgipd5p6hrvqegt",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-15T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Tippmann Boss Leather Stitcher Training",
+            "updated": "2019-07-21T21:51:32.955Z"
+        },
+        {
+            "created": "2019-08-08T19:45:30.000Z",
+            "creator": {
+                "email": "annie.stegink@technocopia.org"
+            },
+            "description": "We are excited to offer a night of socializing, stitching, and learning new skills with our Visible Mending Sip and Stitch Workshop! \n\n\nPatching holes and mending tears can be a form of art using embroidery thread, colorful fabric, and a variety of decorative stitches. Bring an item or two that you would like to jazz up (they don\u2019t have to be in need of repair- decorative stitching can be used to brighten any old shirt, jeans, or jacket), and we will provide the rest! \n\nEach ticket includes light munchies, embroidery floss, needles, a small assortment of fabric, and basic instruction. Participants should bring at least 2 articles of clothing they would like to stitch, and any particular fabric they would like to use for patches, if desired. Participants are welcome to bring their own wine or beer to sip as they stitch!\n\nThis event is for ages 21+. No experience necessary. ",
+            "end": {
+                "dateTime": "2019-09-30T21:00:00-04:00"
+            },
+            "etag": "\"3130587062072000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWQ3Yjg0M3BobGI5NWgwZXJldGlvYnBsaDcgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "1d7b843phlb95h0eretiobplh7@google.com",
+            "id": "1d7b843phlb95h0eretiobplh7",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-09-30T19:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Sip and Stitch Workshop-Think Tank Classroom",
+            "updated": "2019-08-08T19:45:31.036Z"
+        },
+        {
+            "created": "2019-03-19T15:57:37.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />Tools covered in this class:<br /><br />- Radial arm saw<br />- Chop saw<br />- Band Saw<br />- Project Design and Workflow<br /><br />Technocopia&#39;s space includes a complete wood shop for members to use for professional or personal projects. This class will teach students how to safely and effectively use the tools listed above. Students will be instructed in operating and maintenance procedures, appropriate technique, and wood shop etiquette. Members must demonstrate safe use of these tools to be certified to use them in our space.<br /><br />For our student registration form and for class policies, please visit: <a href=\"https://www.google.com/url?q=http%3A%2F%2Ftechnocopia.org%2Ftool-training%2F&amp;sa=D&amp;ust=1570159803001000&amp;usg=AFQjCNGLJeBT0nMu20jtjYL2bAKDPrkAgA\" target=\"_blank\">http://technocopia.org/tool-training/</a>. The wood shop and its associated classes are for adults aged 18+ only.<br /><br />Eventbrite Link for registration:<br />https://www.eventbrite.com/e/tool-training-wood-shop-series-i-tickets-69062643225",
+            "end": {
+                "dateTime": "2019-10-07T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131437367588000\"",
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=N2s4djdsYTY1ZjlzODJ2NDF0a3JsYThybm1fMjAxOTEwMDdUMjIwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "7k8v7la65f9s82v41tkrla8rnm_R20190902T220000@google.com",
+            "id": "7k8v7la65f9s82v41tkrla8rnm_20191007T220000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-07T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "7k8v7la65f9s82v41tkrla8rnm_R20190902T220000",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-07T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Wood Shop Series I",
+            "updated": "2019-08-13T17:51:23.794Z"
+        },
+        {
+            "created": "2019-03-19T15:50:17.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />Tools covered in this class:<br /><br />- Planer<br />- Jointer<br />- Hand power tools<br /><br />Technocopia&#39;s space includes a complete wood shop for members to use for professional or personal projects. This class will teach students how to safely and effectively use the tools listed above. Students will be instructed in operating and maintenance procedures, appropriate technique, and wood shop etiquette. Members must demonstrate safe use of these tools to be certified to use them in our space.<br /><br />For our student registration form and for class policies, please visit: <a href=\"https://www.google.com/url?q=http%3A%2F%2Ftechnocopia.org%2Ftool-training%2F&amp;sa=D&amp;ust=1570159803001000&amp;usg=AFQjCNGLJeBT0nMu20jtjYL2bAKDPrkAgA\" target=\"_blank\">http://technocopia.org/tool-training/</a>. The wood shop and its associated classes are for adults aged 18+ only.<br /><br /><br /><br />Eventbrite link for registration here:<br />https://www.eventbrite.com/e/tool-training-wood-shop-series-ii-tickets-69067931041",
+            "end": {
+                "dateTime": "2019-10-14T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131439570188000\"",
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=NTZldXUzZGV1a2NyMXZzM2hnNnBzMnVuZG9fMjAxOTEwMTRUMjIwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "56euu3deukcr1vs3hg6ps2undo_R20191014T220000@google.com",
+            "id": "56euu3deukcr1vs3hg6ps2undo_20191014T220000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-14T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "56euu3deukcr1vs3hg6ps2undo_R20191014T220000",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-14T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Wood Shop Series II",
+            "updated": "2019-08-13T18:09:45.094Z"
+        },
+        {
+            "created": "2019-03-19T15:43:11.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Tools covered in this class:<br /><br />- SawStop table saw<br /><br />Technocopia&#39;s space includes a complete wood shop for members to use for professional or personal projects. This class will teach students how to safely and effectively use the tools listed above. Students will be instructed in operating and maintenance procedures, appropriate technique, and wood shop etiquette. Members must demonstrate safe use of these tools to be certified to use them in our space.<br /><br /><br />For our student registration form and for class policies, please visit: <a href=\"https://www.google.com/url?q=http%3A%2F%2Ftechnocopia.org%2Ftool-training%2F&amp;sa=D&amp;ust=1570159803002000&amp;usg=AFQjCNFNwRUTxKuzYdG6qTAVX-Ei5TMQ2Q\" target=\"_blank\">http://technocopia.org/tool-training/</a>. The wood shop and its associated classes are for adults aged 18+ only.<br /><br />Eventbrite registration link:<br />https://www.eventbrite.com/e/tool-training-wood-shop-series-iii-tickets-64474357539",
+            "end": {
+                "dateTime": "2019-10-21T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131443160928000\"",
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=NnBubjhoc2NjNDk1Mjc4c28zamllNjI5ZDBfMjAxOTEwMjFUMjIwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "6pnn8hscc495278so3jie629d0_R20191021T220000@google.com",
+            "id": "6pnn8hscc495278so3jie629d0_20191021T220000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-21T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "6pnn8hscc495278so3jie629d0_R20191021T220000",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-21T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Wood Shop III",
+            "updated": "2019-08-13T18:39:40.464Z"
+        },
+        {
+            "created": "2019-03-19T15:34:16.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Tools covered in this class:<br /><br />- Drill press<br />- Sander<br />- Shaper/router table<br /><br />Technocopia&#39;s space includes a complete wood shop for members to use for professional or personal projects. This class will teach students how to safely and effectively use the tools listed above. Students will be instructed in operating and maintenance procedures, appropriate technique, and wood shop etiquette. Members must demonstrate safe use of these tools to be certified to use them in our space.<br /><br /><br />For our student registration form and for class policies, please visit: <a href=\"https://www.google.com/url?q=http%3A%2F%2Ftechnocopia.org%2Ftool-training%2F&amp;sa=D&amp;ust=1570159803003000&amp;usg=AFQjCNEz42CblN234UeBBvG1J4VxM8ErYA\" target=\"_blank\">http://technocopia.org/tool-training/</a>. The wood shop and its associated classes are for adults aged 18+ only.<br /><br />Eventbrite link to sign up here:<br />https://www.eventbrite.com/e/tool-training-wood-shop-series-iv-tickets-64474515010",
+            "end": {
+                "dateTime": "2019-09-30T20:00:00-04:00"
+            },
+            "etag": "\"3131447353108000\"",
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=MmEwYjkzZ2c0cTdnODloN2kwNDZvMWQ0b2RfMjAxOTA5MjNUMjIwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "2a0b93gg4q7g89h7i046o1d4od_R20190923T220000@google.com",
+            "id": "2a0b93gg4q7g89h7i046o1d4od_20190923T220000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-09-23T18:00:00-04:00"
+            },
+            "recurringEventId": "2a0b93gg4q7g89h7i046o1d4od_R20190923T220000",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-09-30T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Wood Shop IV",
+            "updated": "2019-08-13T19:14:36.554Z"
+        },
+        {
+            "created": "2019-03-19T15:34:16.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "Tools covered in this class:<br /><br />- Drill press<br />- Sander<br />- Shaper/router table<br /><br />Technocopia&#39;s space includes a complete wood shop for members to use for professional or personal projects. This class will teach students how to safely and effectively use the tools listed above. Students will be instructed in operating and maintenance procedures, appropriate technique, and wood shop etiquette. Members must demonstrate safe use of these tools to be certified to use them in our space.<br /><br /><br />For our student registration form and for class policies, please visit: <a href=\"https://www.google.com/url?q=http%3A%2F%2Ftechnocopia.org%2Ftool-training%2F&amp;sa=D&amp;ust=1570159803003000&amp;usg=AFQjCNEz42CblN234UeBBvG1J4VxM8ErYA\" target=\"_blank\">http://technocopia.org/tool-training/</a>. The wood shop and its associated classes are for adults aged 18+ only.<br /><br />Eventbrite link to sign up here:<br />https://www.eventbrite.com/e/tool-training-wood-shop-series-iv-tickets-64474515010",
+            "end": {
+                "dateTime": "2019-10-28T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131447353108000\"",
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "htmlLink": "https://www.google.com/calendar/event?eid=MmEwYjkzZ2c0cTdnODloN2kwNDZvMWQ0b2RfMjAxOTEwMjhUMjIwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "2a0b93gg4q7g89h7i046o1d4od_R20190923T220000@google.com",
+            "id": "2a0b93gg4q7g89h7i046o1d4od_20191028T220000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-28T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "2a0b93gg4q7g89h7i046o1d4od_R20190923T220000",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-28T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Wood Shop IV",
+            "updated": "2019-08-13T19:14:36.554Z"
+        },
+        {
+            "created": "2019-08-15T02:02:18.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "description": "LGBTQ+ Discussion Club is for any 10-13 year old kid who wants to learn more about LGBTQ+, sexuality, the gender spectrum,  by learning together through discussion!  We'll discuss questions such as: Are micro labels important? Or, What is gender?  At the end of each meeting  we will decide together what we want to talk about next week",
+            "end": {
+                "dateTime": "2019-10-02T17:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131669077632000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MHUzZmVmZWMwbWY3NzZwbjMwdnVjMjMxYzVfMjAxOTEwMDJUMjAwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "0u3fefec0mf776pn30vuc231c5@google.com",
+            "id": "0u3fefec0mf776pn30vuc231c5_20191002T200000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-02T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "0u3fefec0mf776pn30vuc231c5",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-02T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "LGBTQ+ Homeschool Club",
+            "updated": "2019-08-15T02:02:18.816Z"
+        },
+        {
+            "created": "2019-08-15T02:02:18.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "description": "LGBTQ+ Discussion Club is for any 10-13 year old kid who wants to learn more about LGBTQ+, sexuality, the gender spectrum,  by learning together through discussion!  We'll discuss questions such as: Are micro labels important? Or, What is gender?  At the end of each meeting  we will decide together what we want to talk about next week",
+            "end": {
+                "dateTime": "2019-10-09T17:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131669077632000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MHUzZmVmZWMwbWY3NzZwbjMwdnVjMjMxYzVfMjAxOTEwMDlUMjAwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "0u3fefec0mf776pn30vuc231c5@google.com",
+            "id": "0u3fefec0mf776pn30vuc231c5_20191009T200000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-09T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "0u3fefec0mf776pn30vuc231c5",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-09T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "LGBTQ+ Homeschool Club",
+            "updated": "2019-08-15T02:02:18.816Z"
+        },
+        {
+            "created": "2019-08-15T02:02:18.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "description": "LGBTQ+ Discussion Club is for any 10-13 year old kid who wants to learn more about LGBTQ+, sexuality, the gender spectrum,  by learning together through discussion!  We'll discuss questions such as: Are micro labels important? Or, What is gender?  At the end of each meeting  we will decide together what we want to talk about next week",
+            "end": {
+                "dateTime": "2019-10-16T17:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131669077632000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MHUzZmVmZWMwbWY3NzZwbjMwdnVjMjMxYzVfMjAxOTEwMTZUMjAwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "0u3fefec0mf776pn30vuc231c5@google.com",
+            "id": "0u3fefec0mf776pn30vuc231c5_20191016T200000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-16T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "0u3fefec0mf776pn30vuc231c5",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-16T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "LGBTQ+ Homeschool Club",
+            "updated": "2019-08-15T02:02:18.816Z"
+        },
+        {
+            "created": "2019-08-15T02:02:18.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "description": "LGBTQ+ Discussion Club is for any 10-13 year old kid who wants to learn more about LGBTQ+, sexuality, the gender spectrum,  by learning together through discussion!  We'll discuss questions such as: Are micro labels important? Or, What is gender?  At the end of each meeting  we will decide together what we want to talk about next week",
+            "end": {
+                "dateTime": "2019-10-23T17:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3131669077632000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MHUzZmVmZWMwbWY3NzZwbjMwdnVjMjMxYzVfMjAxOTEwMjNUMjAwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "0u3fefec0mf776pn30vuc231c5@google.com",
+            "id": "0u3fefec0mf776pn30vuc231c5_20191023T200000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-23T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "0u3fefec0mf776pn30vuc231c5",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-23T16:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "LGBTQ+ Homeschool Club",
+            "updated": "2019-08-15T02:02:18.816Z"
+        },
+        {
+            "created": "2019-01-15T21:59:31.000Z",
+            "creator": {
+                "email": "mike.dangelo@technocopia.org"
+            },
+            "description": "Laser Cutter will be down during this time for weekly cleaning. Contact Chris Mumford Chris.mumford@technocopia.org if you have an questions.",
+            "end": {
+                "dateTime": "2019-10-04T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3133022832808000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjVnamlwajVja3NtOGJiMTYwcTM2YjlrY2xpamliOXA2aGgzZWJiNGNjc200ZWI1Y2dxNmFjOWs2MF8yMDE5MTAwNVQwMDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60@google.com",
+            "id": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60_20191005T000000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-04T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-04T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Laser Cutter Cleaning",
+            "updated": "2019-08-22T22:03:36.404Z"
+        },
+        {
+            "created": "2019-01-15T21:59:31.000Z",
+            "creator": {
+                "email": "mike.dangelo@technocopia.org"
+            },
+            "description": "Laser Cutter will be down during this time for weekly cleaning. Contact Chris Mumford Chris.mumford@technocopia.org if you have an questions.",
+            "end": {
+                "dateTime": "2019-10-11T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3133022832808000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjVnamlwajVja3NtOGJiMTYwcTM2YjlrY2xpamliOXA2aGgzZWJiNGNjc200ZWI1Y2dxNmFjOWs2MF8yMDE5MTAxMlQwMDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60@google.com",
+            "id": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60_20191012T000000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-11T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-11T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Laser Cutter Cleaning",
+            "updated": "2019-08-22T22:03:36.404Z"
+        },
+        {
+            "created": "2019-01-15T21:59:31.000Z",
+            "creator": {
+                "email": "mike.dangelo@technocopia.org"
+            },
+            "description": "Laser Cutter will be down during this time for weekly cleaning. Contact Chris Mumford Chris.mumford@technocopia.org if you have an questions.",
+            "end": {
+                "dateTime": "2019-10-18T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3133022832808000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjVnamlwajVja3NtOGJiMTYwcTM2YjlrY2xpamliOXA2aGgzZWJiNGNjc200ZWI1Y2dxNmFjOWs2MF8yMDE5MTAxOVQwMDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60@google.com",
+            "id": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60_20191019T000000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-18T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-18T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Laser Cutter Cleaning",
+            "updated": "2019-08-22T22:03:36.404Z"
+        },
+        {
+            "created": "2019-01-15T21:59:31.000Z",
+            "creator": {
+                "email": "mike.dangelo@technocopia.org"
+            },
+            "description": "Laser Cutter will be down during this time for weekly cleaning. Contact Chris Mumford Chris.mumford@technocopia.org if you have an questions.",
+            "end": {
+                "dateTime": "2019-10-25T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3133022832808000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjVnamlwajVja3NtOGJiMTYwcTM2YjlrY2xpamliOXA2aGgzZWJiNGNjc200ZWI1Y2dxNmFjOWs2MF8yMDE5MTAyNlQwMDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60@google.com",
+            "id": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60_20191026T000000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-25T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "65gjipj5cksm8bb160q36b9kclijib9p6hh3ebb4ccsm4eb5cgq6ac9k60",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-25T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Laser Cutter Cleaning",
+            "updated": "2019-08-22T22:03:36.404Z"
+        },
+        {
+            "created": "2019-08-08T20:30:34.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nHome School Program:\nUtilizing special lab techniques students will culture bacteria and fungus on selected nutrient mediums to create  colorful pallets and pictures in petri dishes. A popular art trend  among some microbiologists, students will learn how to cultivate  micro-organisms, prepare nutrient agars and petri dishes and exercise creative license in designing abstract and real to life images on their cultured dishes. Students will record their art through photography. \n\n\nThis class satisfies the following biology topics:Biological Classification, Cell Cycle &amp; Division, Microbiology Technique &amp; Procedure\n\nCost: $80\nSign up Here: https://www.eventbrite.com/e/microbial-art-tickets-68541169483",
+            "end": {
+                "dateTime": "2019-10-07T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134223414492000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjBhMWF0aGxhdGdkZ2tzY284MzRmamJoNmpfMjAxOTEwMDdUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "60a1athlatgdgksco834fjbh6j@google.com",
+            "id": "60a1athlatgdgksco834fjbh6j_20191007T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-07T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "60a1athlatgdgksco834fjbh6j",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-07T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Microbial Art: Think Tank Classroom",
+            "updated": "2019-08-29T20:48:27.246Z"
+        },
+        {
+            "created": "2019-08-08T20:30:34.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nHome School Program:\nUtilizing special lab techniques students will culture bacteria and fungus on selected nutrient mediums to create  colorful pallets and pictures in petri dishes. A popular art trend  among some microbiologists, students will learn how to cultivate  micro-organisms, prepare nutrient agars and petri dishes and exercise creative license in designing abstract and real to life images on their cultured dishes. Students will record their art through photography. \n\n\nThis class satisfies the following biology topics:Biological Classification, Cell Cycle &amp; Division, Microbiology Technique &amp; Procedure\n\nCost: $80\nSign up Here: https://www.eventbrite.com/e/microbial-art-tickets-68541169483",
+            "end": {
+                "dateTime": "2019-10-21T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134223414492000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjBhMWF0aGxhdGdkZ2tzY284MzRmamJoNmpfMjAxOTEwMjFUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "60a1athlatgdgksco834fjbh6j@google.com",
+            "id": "60a1athlatgdgksco834fjbh6j_20191021T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-21T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "60a1athlatgdgksco834fjbh6j",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-21T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Microbial Art: Think Tank Classroom",
+            "updated": "2019-08-29T20:48:27.246Z"
+        },
+        {
+            "created": "2019-08-08T20:30:34.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nHome School Program:\nUtilizing special lab techniques students will culture bacteria and fungus on selected nutrient mediums to create  colorful pallets and pictures in petri dishes. A popular art trend  among some microbiologists, students will learn how to cultivate  micro-organisms, prepare nutrient agars and petri dishes and exercise creative license in designing abstract and real to life images on their cultured dishes. Students will record their art through photography. \n\n\nThis class satisfies the following biology topics:Biological Classification, Cell Cycle &amp; Division, Microbiology Technique &amp; Procedure\n\nCost: $80\nSign up Here: https://www.eventbrite.com/e/microbial-art-tickets-68541169483",
+            "end": {
+                "dateTime": "2019-10-28T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134223414492000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjBhMWF0aGxhdGdkZ2tzY284MzRmamJoNmpfMjAxOTEwMjhUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "60a1athlatgdgksco834fjbh6j@google.com",
+            "id": "60a1athlatgdgksco834fjbh6j_20191028T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-28T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "60a1athlatgdgksco834fjbh6j",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-28T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Microbial Art: Think Tank Classroom",
+            "updated": "2019-08-29T20:48:27.246Z"
+        },
+        {
+            "created": "2019-08-29T20:46:11.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nThis Monday class, 10:00am - 3:30pm, meets weekly a total of 4 times,  Sept. 9th - Sept.30th. Single class semester tuition is $250 and it covers all tuition and material costs. \n\nClass Description:\n\nThis class celebrates the intersection of chemistry and craft. WPI Professor of Chemistry, Dr. Grimm, and Technocopia glass artist, Molly Jackson, will work alongside one another to bring the chemical and artistic properties of glass in full light. Students can expect to gain an understanding of glass within; states of matter and thermodynamics, atomic and molecular components, ionic compounds and crystallization, and color and light. Students will learn the art of flameworking and how to use the glass shop and its tools properly and safely. Students will spend 2.5 hours with each instructor (Dr. Grimm and Ms. Jackson) every Monday, to engage in a chemistry lesson and lab, and work on glass studio projects. Students will have 30 min. between classes for lunch.\n\nInstructors: Dr. Ronald Grimm and Molly Jackson\nEvent Link: https://www.eventbrite.com/e/glass-chemistry-craft-tickets-67658290769",
+            "end": {
+                "dateTime": "2019-09-30T15:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134224002436000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M2pjN3Rvcm82bm5sdW85NWdvOHUycDFycGdfMjAxOTA5MzBUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3jc7toro6nnluo95go8u2p1rpg@google.com",
+            "id": "3jc7toro6nnluo95go8u2p1rpg_20190930T140000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-09-30T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3jc7toro6nnluo95go8u2p1rpg",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-09-30T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Glass Chemistry & Craft (Glass Studio & Think Tank Classroom)",
+            "updated": "2019-08-29T20:53:21.218Z"
+        },
+        {
+            "created": "2019-08-29T20:58:17.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-07T15:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134224596052000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M2UzMnNlanA3c2UzM2NhaGFpYzVvNGxkNDVfMjAxOTEwMDdUMTcwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3e32sejp7se33cahaic5o4ld45@google.com",
+            "id": "3e32sejp7se33cahaic5o4ld45_20191007T170000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-07T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3e32sejp7se33cahaic5o4ld45",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-07T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Art Studio",
+            "updated": "2019-08-29T20:58:18.026Z"
+        },
+        {
+            "created": "2019-08-29T20:58:17.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-21T15:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134224596052000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M2UzMnNlanA3c2UzM2NhaGFpYzVvNGxkNDVfMjAxOTEwMjFUMTcwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3e32sejp7se33cahaic5o4ld45@google.com",
+            "id": "3e32sejp7se33cahaic5o4ld45_20191021T170000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-21T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3e32sejp7se33cahaic5o4ld45",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-21T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Art Studio",
+            "updated": "2019-08-29T20:58:18.026Z"
+        },
+        {
+            "created": "2019-08-29T20:58:17.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-28T15:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134224596052000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M2UzMnNlanA3c2UzM2NhaGFpYzVvNGxkNDVfMjAxOTEwMjhUMTcwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3e32sejp7se33cahaic5o4ld45@google.com",
+            "id": "3e32sejp7se33cahaic5o4ld45_20191028T170000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-28T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3e32sejp7se33cahaic5o4ld45",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-28T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Art Studio",
+            "updated": "2019-08-29T20:58:18.026Z"
+        },
+        {
+            "created": "2019-08-29T21:02:57.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br /><b>This class is full and not accepting new registration.</b> To be put on a waiting list, please contact: info@technocopia.org. <br /><br /><br />This Wednesday class, 10:00am - 11:30am, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<b>Ages 10-13</b><br />Class Description:<br />A Makerspace is a  place where people get together to learn, explore, share ideas, and make things. It is a learning-by-doing experience and this class is designed to help teenagers explore Technocopia\u2019s resources to do just that! The only prerequisite is curiosity and a desire to make things! <br />This course is a great starting point for exploring fabrication techniques and the skills to use them. Ideas, skills and projects will  evolve as students explore and tinker using both low and high tech  tools. We will explore the resources available at Technocopia including  various tools used in areas of  woodworking, textiles, and digital fabrication. This class will include a focus on design and creation of several small-scale  projects. Collaboration and sharing will be encouraged in the  development of these projects and we will employ aspects of  design thinking in the generation and implementation of them. This class will include wood working, sewing, computer aided design, and use of a vinyl and laser cutter. This course is specifically designed to suit students aged 10-13. <br />Instructor: Jessica Sadlier",
+            "end": {
+                "dateTime": "2019-10-02T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225155980000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWYwamg0OGEycTFvcGlhczc5a3Y1NmsyNDRfMjAxOTEwMDJUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1f0jh48a2q1opias79kv56k244@google.com",
+            "id": "1f0jh48a2q1opias79kv56k244_20191002T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-02T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1f0jh48a2q1opias79kv56k244",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-02T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Makerspace Studio (Co-Lab & Common Space)",
+            "updated": "2019-08-29T21:02:57.990Z"
+        },
+        {
+            "created": "2019-08-29T21:02:57.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br /><b>This class is full and not accepting new registration.</b> To be put on a waiting list, please contact: info@technocopia.org. <br /><br /><br />This Wednesday class, 10:00am - 11:30am, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<b>Ages 10-13</b><br />Class Description:<br />A Makerspace is a  place where people get together to learn, explore, share ideas, and make things. It is a learning-by-doing experience and this class is designed to help teenagers explore Technocopia\u2019s resources to do just that! The only prerequisite is curiosity and a desire to make things! <br />This course is a great starting point for exploring fabrication techniques and the skills to use them. Ideas, skills and projects will  evolve as students explore and tinker using both low and high tech  tools. We will explore the resources available at Technocopia including  various tools used in areas of  woodworking, textiles, and digital fabrication. This class will include a focus on design and creation of several small-scale  projects. Collaboration and sharing will be encouraged in the  development of these projects and we will employ aspects of  design thinking in the generation and implementation of them. This class will include wood working, sewing, computer aided design, and use of a vinyl and laser cutter. This course is specifically designed to suit students aged 10-13. <br />Instructor: Jessica Sadlier",
+            "end": {
+                "dateTime": "2019-10-09T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225155980000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWYwamg0OGEycTFvcGlhczc5a3Y1NmsyNDRfMjAxOTEwMDlUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1f0jh48a2q1opias79kv56k244@google.com",
+            "id": "1f0jh48a2q1opias79kv56k244_20191009T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-09T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1f0jh48a2q1opias79kv56k244",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-09T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Makerspace Studio (Co-Lab & Common Space)",
+            "updated": "2019-08-29T21:02:57.990Z"
+        },
+        {
+            "created": "2019-08-29T21:02:57.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br /><b>This class is full and not accepting new registration.</b> To be put on a waiting list, please contact: info@technocopia.org. <br /><br /><br />This Wednesday class, 10:00am - 11:30am, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<b>Ages 10-13</b><br />Class Description:<br />A Makerspace is a  place where people get together to learn, explore, share ideas, and make things. It is a learning-by-doing experience and this class is designed to help teenagers explore Technocopia\u2019s resources to do just that! The only prerequisite is curiosity and a desire to make things! <br />This course is a great starting point for exploring fabrication techniques and the skills to use them. Ideas, skills and projects will  evolve as students explore and tinker using both low and high tech  tools. We will explore the resources available at Technocopia including  various tools used in areas of  woodworking, textiles, and digital fabrication. This class will include a focus on design and creation of several small-scale  projects. Collaboration and sharing will be encouraged in the  development of these projects and we will employ aspects of  design thinking in the generation and implementation of them. This class will include wood working, sewing, computer aided design, and use of a vinyl and laser cutter. This course is specifically designed to suit students aged 10-13. <br />Instructor: Jessica Sadlier",
+            "end": {
+                "dateTime": "2019-10-16T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225155980000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWYwamg0OGEycTFvcGlhczc5a3Y1NmsyNDRfMjAxOTEwMTZUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1f0jh48a2q1opias79kv56k244@google.com",
+            "id": "1f0jh48a2q1opias79kv56k244_20191016T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-16T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1f0jh48a2q1opias79kv56k244",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-16T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Makerspace Studio (Co-Lab & Common Space)",
+            "updated": "2019-08-29T21:02:57.990Z"
+        },
+        {
+            "created": "2019-08-29T21:02:57.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br /><b>This class is full and not accepting new registration.</b> To be put on a waiting list, please contact: info@technocopia.org. <br /><br /><br />This Wednesday class, 10:00am - 11:30am, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<b>Ages 10-13</b><br />Class Description:<br />A Makerspace is a  place where people get together to learn, explore, share ideas, and make things. It is a learning-by-doing experience and this class is designed to help teenagers explore Technocopia\u2019s resources to do just that! The only prerequisite is curiosity and a desire to make things! <br />This course is a great starting point for exploring fabrication techniques and the skills to use them. Ideas, skills and projects will  evolve as students explore and tinker using both low and high tech  tools. We will explore the resources available at Technocopia including  various tools used in areas of  woodworking, textiles, and digital fabrication. This class will include a focus on design and creation of several small-scale  projects. Collaboration and sharing will be encouraged in the  development of these projects and we will employ aspects of  design thinking in the generation and implementation of them. This class will include wood working, sewing, computer aided design, and use of a vinyl and laser cutter. This course is specifically designed to suit students aged 10-13. <br />Instructor: Jessica Sadlier",
+            "end": {
+                "dateTime": "2019-10-23T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225155980000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWYwamg0OGEycTFvcGlhczc5a3Y1NmsyNDRfMjAxOTEwMjNUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1f0jh48a2q1opias79kv56k244@google.com",
+            "id": "1f0jh48a2q1opias79kv56k244_20191023T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-23T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1f0jh48a2q1opias79kv56k244",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-23T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Makerspace Studio (Co-Lab & Common Space)",
+            "updated": "2019-08-29T21:02:57.990Z"
+        },
+        {
+            "created": "2019-08-29T21:06:52.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />This Wednesday class, 11:30am - 1:00pm, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<br /><b>Ages 10-13</b><br /><b>Class Description:</b><br />Caldecott Award stories are the springboard for introducing units of studies where students will write both analytically and creatively. This semester we\u2019ll read and analyze short stories and poems and engage in friendly active discussions. Students will work to write well crafted and well researched essays with attention to clear and grammatically correct writing.  Building on this clarity of thought, students will be challenged to think deeply and write about themselves and topics important to them in descriptive, logical and evocative ways.  Grammar, mechanics and usage as well as research skills will be taught.  This semester students can expect to write poetry, descriptive essays, narrative essays and research and write reports.  Because language arts lessons focus so intensely on words we will also look to art, drama, music, movement and observation of the natural world as key ingredients to building openings for developing writers to safely experiment with writing technique. <br />Instructor: Cindy Nordstrom<br /><br />Sign up here: <br /><br />https://www.eventbrite.com/e/caldecott-writing-tickets-68009695831",
+            "end": {
+                "dateTime": "2019-10-02T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225625180000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N3Vib2tuZjhoOGw4bnZpZTRkcGc5dDg4OTFfMjAxOTEwMDJUMTUzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "7uboknf8h8l8nvie4dpg9t8891@google.com",
+            "id": "7uboknf8h8l8nvie4dpg9t8891_20191002T153000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-02T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "7uboknf8h8l8nvie4dpg9t8891",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-02T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Caldecott Writing (Think Tank Classroom)",
+            "updated": "2019-08-29T21:06:52.590Z"
+        },
+        {
+            "created": "2019-08-29T21:06:52.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />This Wednesday class, 11:30am - 1:00pm, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<br /><b>Ages 10-13</b><br /><b>Class Description:</b><br />Caldecott Award stories are the springboard for introducing units of studies where students will write both analytically and creatively. This semester we\u2019ll read and analyze short stories and poems and engage in friendly active discussions. Students will work to write well crafted and well researched essays with attention to clear and grammatically correct writing.  Building on this clarity of thought, students will be challenged to think deeply and write about themselves and topics important to them in descriptive, logical and evocative ways.  Grammar, mechanics and usage as well as research skills will be taught.  This semester students can expect to write poetry, descriptive essays, narrative essays and research and write reports.  Because language arts lessons focus so intensely on words we will also look to art, drama, music, movement and observation of the natural world as key ingredients to building openings for developing writers to safely experiment with writing technique. <br />Instructor: Cindy Nordstrom<br /><br />Sign up here: <br /><br />https://www.eventbrite.com/e/caldecott-writing-tickets-68009695831",
+            "end": {
+                "dateTime": "2019-10-09T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225625180000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N3Vib2tuZjhoOGw4bnZpZTRkcGc5dDg4OTFfMjAxOTEwMDlUMTUzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "7uboknf8h8l8nvie4dpg9t8891@google.com",
+            "id": "7uboknf8h8l8nvie4dpg9t8891_20191009T153000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-09T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "7uboknf8h8l8nvie4dpg9t8891",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-09T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Caldecott Writing (Think Tank Classroom)",
+            "updated": "2019-08-29T21:06:52.590Z"
+        },
+        {
+            "created": "2019-08-29T21:06:52.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />This Wednesday class, 11:30am - 1:00pm, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<br /><b>Ages 10-13</b><br /><b>Class Description:</b><br />Caldecott Award stories are the springboard for introducing units of studies where students will write both analytically and creatively. This semester we\u2019ll read and analyze short stories and poems and engage in friendly active discussions. Students will work to write well crafted and well researched essays with attention to clear and grammatically correct writing.  Building on this clarity of thought, students will be challenged to think deeply and write about themselves and topics important to them in descriptive, logical and evocative ways.  Grammar, mechanics and usage as well as research skills will be taught.  This semester students can expect to write poetry, descriptive essays, narrative essays and research and write reports.  Because language arts lessons focus so intensely on words we will also look to art, drama, music, movement and observation of the natural world as key ingredients to building openings for developing writers to safely experiment with writing technique. <br />Instructor: Cindy Nordstrom<br /><br />Sign up here: <br /><br />https://www.eventbrite.com/e/caldecott-writing-tickets-68009695831",
+            "end": {
+                "dateTime": "2019-10-16T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225625180000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N3Vib2tuZjhoOGw4bnZpZTRkcGc5dDg4OTFfMjAxOTEwMTZUMTUzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "7uboknf8h8l8nvie4dpg9t8891@google.com",
+            "id": "7uboknf8h8l8nvie4dpg9t8891_20191016T153000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-16T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "7uboknf8h8l8nvie4dpg9t8891",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-16T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Caldecott Writing (Think Tank Classroom)",
+            "updated": "2019-08-29T21:06:52.590Z"
+        },
+        {
+            "created": "2019-08-29T21:06:52.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />This Wednesday class, 11:30am - 1:00pm, meets weekly a total of 12 times,  Sept. 11th - Dec. 4th. No class on 11/27. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class.<br /><b>Ages 10-13</b><br /><b>Class Description:</b><br />Caldecott Award stories are the springboard for introducing units of studies where students will write both analytically and creatively. This semester we\u2019ll read and analyze short stories and poems and engage in friendly active discussions. Students will work to write well crafted and well researched essays with attention to clear and grammatically correct writing.  Building on this clarity of thought, students will be challenged to think deeply and write about themselves and topics important to them in descriptive, logical and evocative ways.  Grammar, mechanics and usage as well as research skills will be taught.  This semester students can expect to write poetry, descriptive essays, narrative essays and research and write reports.  Because language arts lessons focus so intensely on words we will also look to art, drama, music, movement and observation of the natural world as key ingredients to building openings for developing writers to safely experiment with writing technique. <br />Instructor: Cindy Nordstrom<br /><br />Sign up here: <br /><br />https://www.eventbrite.com/e/caldecott-writing-tickets-68009695831",
+            "end": {
+                "dateTime": "2019-10-23T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134225625180000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N3Vib2tuZjhoOGw4bnZpZTRkcGc5dDg4OTFfMjAxOTEwMjNUMTUzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "7uboknf8h8l8nvie4dpg9t8891@google.com",
+            "id": "7uboknf8h8l8nvie4dpg9t8891_20191023T153000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-23T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "7uboknf8h8l8nvie4dpg9t8891",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-23T11:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Caldecott Writing (Think Tank Classroom)",
+            "updated": "2019-08-29T21:06:52.590Z"
+        },
+        {
+            "created": "2019-07-30T17:59:13.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<b>This Wednesday class is full and not accepting new registration. To be put on a waiting list, please contact: </b>info@technocopia.org. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class. Writing, History &amp; Tech Wednesday packages are still available.<br />Ages 10-13<br />Class Description:<br />This fun and challenging course will bring the fascinating ancient world of Early Crete to the Last Roman Emperor to vivid life. Students will weave together strands from lectures and projects in geography, mythology, art, music, poetry, engineering, dance, and drama to immerse themselves in the meaning and importance of this time period. <br />This course will include the study of primary source material and important literary works of the time. Maps, timelines, and outlines, are incorporated into the student\u2019s weekly work and students are expected to perform research and write reports. By the end of this dynamic course, students will be able to draw connections from our readings, lectures and projects to the continuing story of our world.<br />Instructor: Cindy Nordstrom",
+            "end": {
+                "dateTime": "2019-10-02T15:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134226327396000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjEyY29xMWVuODZmZ2hhYXFxdDNhcThxZzZfMjAxOTEwMDJUMTczMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "612coq1en86fghaaqqt3aq8qg6@google.com",
+            "id": "612coq1en86fghaaqqt3aq8qg6_20191002T173000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-02T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "612coq1en86fghaaqqt3aq8qg6",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-02T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "World History (Think Tank Classroom)",
+            "updated": "2019-08-29T21:12:43.698Z"
+        },
+        {
+            "created": "2019-07-30T17:59:13.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<b>This Wednesday class is full and not accepting new registration. To be put on a waiting list, please contact: </b>info@technocopia.org. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class. Writing, History &amp; Tech Wednesday packages are still available.<br />Ages 10-13<br />Class Description:<br />This fun and challenging course will bring the fascinating ancient world of Early Crete to the Last Roman Emperor to vivid life. Students will weave together strands from lectures and projects in geography, mythology, art, music, poetry, engineering, dance, and drama to immerse themselves in the meaning and importance of this time period. <br />This course will include the study of primary source material and important literary works of the time. Maps, timelines, and outlines, are incorporated into the student\u2019s weekly work and students are expected to perform research and write reports. By the end of this dynamic course, students will be able to draw connections from our readings, lectures and projects to the continuing story of our world.<br />Instructor: Cindy Nordstrom",
+            "end": {
+                "dateTime": "2019-10-09T15:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134226327396000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjEyY29xMWVuODZmZ2hhYXFxdDNhcThxZzZfMjAxOTEwMDlUMTczMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "612coq1en86fghaaqqt3aq8qg6@google.com",
+            "id": "612coq1en86fghaaqqt3aq8qg6_20191009T173000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-09T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "612coq1en86fghaaqqt3aq8qg6",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-09T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "World History (Think Tank Classroom)",
+            "updated": "2019-08-29T21:12:43.698Z"
+        },
+        {
+            "created": "2019-07-30T17:59:13.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<b>This Wednesday class is full and not accepting new registration. To be put on a waiting list, please contact: </b>info@technocopia.org. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class. Writing, History &amp; Tech Wednesday packages are still available.<br />Ages 10-13<br />Class Description:<br />This fun and challenging course will bring the fascinating ancient world of Early Crete to the Last Roman Emperor to vivid life. Students will weave together strands from lectures and projects in geography, mythology, art, music, poetry, engineering, dance, and drama to immerse themselves in the meaning and importance of this time period. <br />This course will include the study of primary source material and important literary works of the time. Maps, timelines, and outlines, are incorporated into the student\u2019s weekly work and students are expected to perform research and write reports. By the end of this dynamic course, students will be able to draw connections from our readings, lectures and projects to the continuing story of our world.<br />Instructor: Cindy Nordstrom",
+            "end": {
+                "dateTime": "2019-10-16T15:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134226327396000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjEyY29xMWVuODZmZ2hhYXFxdDNhcThxZzZfMjAxOTEwMTZUMTczMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "612coq1en86fghaaqqt3aq8qg6@google.com",
+            "id": "612coq1en86fghaaqqt3aq8qg6_20191016T173000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-16T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "612coq1en86fghaaqqt3aq8qg6",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-16T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "World History (Think Tank Classroom)",
+            "updated": "2019-08-29T21:12:43.698Z"
+        },
+        {
+            "created": "2019-07-30T17:59:13.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<b>This Wednesday class is full and not accepting new registration. To be put on a waiting list, please contact: </b>info@technocopia.org. Single class semester tuition is $325 and covers all tuition and material costs. A non-refundable deposit of $75 reserves a seat in this class. Writing, History &amp; Tech Wednesday packages are still available.<br />Ages 10-13<br />Class Description:<br />This fun and challenging course will bring the fascinating ancient world of Early Crete to the Last Roman Emperor to vivid life. Students will weave together strands from lectures and projects in geography, mythology, art, music, poetry, engineering, dance, and drama to immerse themselves in the meaning and importance of this time period. <br />This course will include the study of primary source material and important literary works of the time. Maps, timelines, and outlines, are incorporated into the student\u2019s weekly work and students are expected to perform research and write reports. By the end of this dynamic course, students will be able to draw connections from our readings, lectures and projects to the continuing story of our world.<br />Instructor: Cindy Nordstrom",
+            "end": {
+                "dateTime": "2019-10-23T15:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134226327396000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjEyY29xMWVuODZmZ2hhYXFxdDNhcThxZzZfMjAxOTEwMjNUMTczMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "612coq1en86fghaaqqt3aq8qg6@google.com",
+            "id": "612coq1en86fghaaqqt3aq8qg6_20191023T173000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-23T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "612coq1en86fghaaqqt3aq8qg6",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-23T13:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "World History (Think Tank Classroom)",
+            "updated": "2019-08-29T21:12:43.698Z"
+        },
+        {
+            "created": "2019-08-31T14:15:14.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "description": "Monthly Open Mic brought to you by Technocopia's Homeschool Program.  Open to people ages 8 to 16 (families welcome). Bring your music, instrument, poetry, jokes, whatever and gather in a friendly environment to support, share and snack.",
+            "end": {
+                "dateTime": "2019-10-11T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134522146370000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MDN1ODlpcTJ0dGFxczkyYmIzZGkzdWN1b25fMjAxOTEwMTFUMjIwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "03u89iq2ttaqs92bb3di3ucuon@google.com",
+            "id": "03u89iq2ttaqs92bb3di3ucuon_20191011T220000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-11T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "03u89iq2ttaqs92bb3di3ucuon",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-11T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Open Mic (Think Tank)",
+            "updated": "2019-08-31T14:17:53.185Z"
+        },
+        {
+            "created": "2019-08-31T15:07:35.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "end": {
+                "dateTime": "2019-10-11T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3134528111072000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Y2hpbWNvOW03MWozaWJiMTZzcDY0YjlrYzloMzRiYjE2b28zMmI5cDZsZ202cDloNnNzM2lkOWdjY18yMDE5MTAxMVQyMjAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "chimco9m71j3ibb16sp64b9kc9h34bb16oo32b9p6lgm6p9h6ss3id9gcc@google.com",
+            "id": "chimco9m71j3ibb16sp64b9kc9h34bb16oo32b9p6lgm6p9h6ss3id9gcc_20191011T220000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-11T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "chimco9m71j3ibb16sp64b9kc9h34bb16oo32b9p6lgm6p9h6ss3id9gcc",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-11T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "tentative",
+            "summary": "Open mic",
+            "updated": "2019-08-31T15:07:35.536Z"
+        },
+        {
+            "created": "2019-09-07T13:14:52.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-05T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135724263290000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NGkycWUwajg3NWNtNWhtZW51dG1rbDFiNWtfMjAxOTEwMDVUMTUwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "4i2qe0j875cm5hmenutmkl1b5k@google.com",
+            "id": "4i2qe0j875cm5hmenutmkl1b5k_20191005T150000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-05T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "4i2qe0j875cm5hmenutmkl1b5k",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-05T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T13:15:31.645Z"
+        },
+        {
+            "created": "2019-09-07T13:14:52.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-12T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135724263290000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NGkycWUwajg3NWNtNWhtZW51dG1rbDFiNWtfMjAxOTEwMTJUMTUwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "4i2qe0j875cm5hmenutmkl1b5k@google.com",
+            "id": "4i2qe0j875cm5hmenutmkl1b5k_20191012T150000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-12T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "4i2qe0j875cm5hmenutmkl1b5k",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-12T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T13:15:31.645Z"
+        },
+        {
+            "created": "2019-09-07T13:14:52.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-19T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135724263290000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NGkycWUwajg3NWNtNWhtZW51dG1rbDFiNWtfMjAxOTEwMTlUMTUwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "4i2qe0j875cm5hmenutmkl1b5k@google.com",
+            "id": "4i2qe0j875cm5hmenutmkl1b5k_20191019T150000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-19T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "4i2qe0j875cm5hmenutmkl1b5k",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-19T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T13:15:31.645Z"
+        },
+        {
+            "created": "2019-09-07T13:14:52.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-26T13:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135724263290000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NGkycWUwajg3NWNtNWhtZW51dG1rbDFiNWtfMjAxOTEwMjZUMTUwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "4i2qe0j875cm5hmenutmkl1b5k@google.com",
+            "id": "4i2qe0j875cm5hmenutmkl1b5k_20191026T150000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-26T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "4i2qe0j875cm5hmenutmkl1b5k",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-26T11:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T13:15:31.645Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-09-30T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTA5MzBUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20190930T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-09-30T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-09-30T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-03T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMDNUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191003T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-03T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-03T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-07T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMDdUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191007T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-07T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-07T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-10T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMTBUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191010T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-10T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-10T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-14T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMTRUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191014T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-14T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-14T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-17T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMTdUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191017T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-17T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-17T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-21T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMjFUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191021T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-21T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-21T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-24T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMjRUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191024T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-24T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-24T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-07T13:12:28.000Z",
+            "creator": {
+                "displayName": "Joe Forjette",
+                "email": "joe.forjette@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-28T19:15:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3135731882116000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3JsNnVwM2dndWhvMWlncWVtanRpZW9yajBfMjAxOTEwMjhUMjAzMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "3rl6up3gguho1igqemjtieorj0@google.com",
+            "id": "3rl6up3gguho1igqemjtieorj0_20191028T203000Z",
+            "kind": "calendar#event",
+            "location": "Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-28T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "3rl6up3gguho1igqemjtieorj0",
+            "sequence": 2,
+            "start": {
+                "dateTime": "2019-10-28T16:30:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Youth Robotics",
+            "updated": "2019-09-07T14:19:01.058Z"
+        },
+        {
+            "created": "2019-09-12T22:41:43.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "end": {
+                "dateTime": "2019-10-07T18:30:00-04:00"
+            },
+            "etag": "\"3136656206562000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MGpxMXF2cWdiamhxaGZqYjJzNDdwcWw0MmEgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "0jq1qvqgbjhqhfjb2s47pql42a@google.com",
+            "id": "0jq1qvqgbjhqhfjb2s47pql42a",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-07T17:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Techequity Meeting - WPS Group (Think Tank Classroom)",
+            "updated": "2019-09-12T22:41:43.281Z"
+        },
+        {
+            "created": "2019-09-12T23:36:08.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nIn this class you will learn the basics of making patterns for your costumes based on the actual wearer. We will explore techniques that will allow you to create shape-conforming garments and coverings for any shape, not just bodies but also furniture or equipment. We will also discuss adding design details to your patterns and adjusting the fit of the finished project. You will leave this class with patterns you can use over and over again.\n\nhttps://www.eventbrite.com/e/intro-to-custom-patternmaking-tickets-72631361357",
+            "end": {
+                "dateTime": "2019-10-03T21:00:00-04:00"
+            },
+            "etag": "\"3136664482248000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N2l1Nmg0OHBocjFwZjNzNmR1ZWluMGFnZzMgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "7iu6h48phr1pf3s6duein0agg3@google.com",
+            "id": "7iu6h48phr1pf3s6duein0agg3",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-03T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Intro to Custom Patternmaking",
+            "updated": "2019-09-12T23:50:41.124Z"
+        },
+        {
+            "created": "2019-09-13T00:05:12.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nDiscover how easy it is to make costumes that defy gravity!  Learn techniques to create volume using various interfacings and linings. We will discuss using wire, foam and other materials to create a support structure for your costumes while still keeping them lightweight and comfortable to wear.\n\nSign up on Eventbrite here:\nhttps://www.eventbrite.com/e/costume-engineering-tickets-72635529825",
+            "end": {
+                "dateTime": "2019-10-10T21:00:00-04:00"
+            },
+            "etag": "\"3136666225306000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NW9scXUxbjJyNWZudHE4dmtobHNzamZiYmwgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "5olqu1n2r5fntq8vkhlssjfbbl@google.com",
+            "id": "5olqu1n2r5fntq8vkhlssjfbbl",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-10T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Costume Engineering",
+            "updated": "2019-09-13T00:05:12.653Z"
+        },
+        {
+            "created": "2019-09-13T00:14:21.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nStart with ready-to-wear clothing and hack your way to a quick and easy costume with little to no sewing. Learn how to turn a few adult t-shirts into a child's cloak, a ninja costume, or a fairy outfit. Paint, glue and duct tape can transform plain basics into fun costumes, add some trims and embellishments and you've got a quick, easy one-of-a kind creation.\n\nSign Up here on Eventbrite here:\nhttps://www.eventbrite.com/e/hack-yourself-a-costume-tickets-72636426507",
+            "end": {
+                "dateTime": "2019-10-17T21:00:00-04:00"
+            },
+            "etag": "\"3136667322220000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NDdhMWVqajZob28wcW1nNGphYXBxY3Bub2EgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "47a1ejj6hoo0qmg4jaapqcpnoa@google.com",
+            "id": "47a1ejj6hoo0qmg4jaapqcpnoa",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-17T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Hack Yourself A Costume",
+            "updated": "2019-09-13T00:14:21.110Z"
+        },
+        {
+            "created": "2019-09-17T01:14:31.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nLearn common ways that t-shirts and posters are printed in this Screen Printing: Free Form class. Unique to this class, is the use of drawing fluid and screen filler that allows the user to freely draw the images they want to create and print. No experience is necessary.\n\nAll supplies included, except for the cost of the screen. Please choose a ticket with an additional material cost for the screen, if you would like Technocopia to provide one for you!\n\nThis is a 2 part class taught over two evenings. The schedule for upcoming screen printing classes is:\n\nWednesdays, Oct. 2nd and 9th\nWednesdays, Nov. 6th and 13th\nWednesdays, Dec. 4th and 11th\n\n\nSign up on Eventbrite here:\nhttps://www.eventbrite.com/e/screen-printing-free-form-tickets-71730332355",
+            "end": {
+                "dateTime": "2019-10-02T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3137367171316000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MnV0bGxjbTk4cDlkOHVyN3Q1bWpwbnJudWpfMjAxOTEwMDJUMjMwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "2utllcm98p9d8ur7t5mjpnrnuj@google.com",
+            "id": "2utllcm98p9d8ur7t5mjpnrnuj_20191002T230000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-02T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "2utllcm98p9d8ur7t5mjpnrnuj",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-02T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Screen Printing: Free Form, Class 1",
+            "updated": "2019-09-17T01:26:25.658Z"
+        },
+        {
+            "created": "2019-09-17T01:28:37.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nLearn common ways that t-shirts and posters are printed in this Screen Printing: Free Form class. Unique to this class, is the use of drawing fluid and screen filler that allows the user to freely draw the images they want to create and print. No experience is necessary.\n\nAll supplies included, except for the cost of the screen. Please choose a ticket with an additional material cost for the screen, if you would like Technocopia to provide one for you!\n\nThis is a 2 part class taught over two evenings. The schedule for upcoming screen printing classes is:\n\nWednesdays, Oct. 2nd and 9th\nWednesdays, Nov. 6th and 13th\nWednesdays, Dec. 4th and 11th\n\n\nSign up on Eventbrite here:\nhttps://www.eventbrite.com/e/screen-printing-free-form-tickets-71730332355",
+            "end": {
+                "dateTime": "2019-10-09T21:00:00-04:00"
+            },
+            "etag": "\"3137367435564000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzA2Y2wzcDhqaWViMmd1bWNoM3E0NGVvMnYgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "706cl3p8jieb2gumch3q44eo2v@google.com",
+            "id": "706cl3p8jieb2gumch3q44eo2v",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, 6th floor, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-09T19:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Screen Printing: Free Form, Class 2",
+            "updated": "2019-09-17T01:28:37.782Z"
+        },
+        {
+            "created": "2019-09-17T18:15:16.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "\nVisit Technocopia for guidance on completing your costume! Having trouble with a single piece or idea and need help? Bring in your own supplies (materials and patterns), and we will help guide your process. Our textile and design studio will be available at this time for guided use.\n\nSign up on Eventbrite here:\nhttps://www.eventbrite.com/e/open-costume-workshop-tickets-73155414815",
+            "end": {
+                "dateTime": "2019-10-24T21:00:00-04:00"
+            },
+            "etag": "\"3137488443780000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N3RtMHJuYmRmZjRlM29ibW5nMnI3cDg4c3IgdGVjaG5vY29waWEub3JnXzZnOWE1MTczMmFlMTRmNjlzMWpxOGg1dWRzQGc&ctz=America/New_York",
+            "iCalUID": "7tm0rnbdff4e3obmng2r7p88sr@google.com",
+            "id": "7tm0rnbdff4e3obmng2r7p88sr",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-24T18:00:00-04:00"
+            },
+            "status": "confirmed",
+            "summary": "Open Costume Workshop",
+            "updated": "2019-09-17T18:17:01.890Z"
+        },
+        {
+            "created": "2019-09-19T20:36:37.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "This beginners class will introduce you to <b>Inkscape</b>, a free 2D design program used to create digital art for web or print, which can also be used to make things with Technocopia&#39;s laser and vinyl cutters. This class focuses on how to process a digital file so it may be cut on a Roland vinyl cutter to produce a sticker. <br /><br />In this vinyl cutter class we will cover:<br /><br />- Learning about the different types of vinyl<br />- Understanding the mechanics of the vinyl cutter<br />- Setting up an Inkscape design for printing<br />- Testing different vinyls and changing settings<br />- Weeding the excess vinyl using special tools<br />- Applying transfer tape to design<br /><br />Computers will be provided. Need help installing Inkscape on your own computer? Feel free to bring it along and we&#39;ll help!<br /><br />This class is ages 16+. Youth aged 12-15 may attend for free, but must be accompanied by a paying adult.<br /><br />Visit the Inkscape homepage here: <a href=\"https://www.google.com/url?q=https%3A%2F%2Finkscape.org%2Fen%2F&amp;sa=D&amp;ust=1570159803015000&amp;usg=AFQjCNH-xLo6EqcEIhbB64k0AwvTMT1uwQ\" target=\"_blank\">https://inkscape.org/en/</a><br /><br /><br /><b>PLEASE NOTE:</b> Registration via Eventbrite is preferred to ensure a seat in the class, however, if you wish to pay by cash or check, please notify us immediately at <a href=\"mailto:info@technocopia.org\" target=\"_blank\">info@technocopia.org</a>. Thank you!<br /><br /><br />Eventbrite link for sign up here:<br />https://www.eventbrite.com/e/digital-design-for-makers-vinyl-cutter-tickets-73485124987<br /><br />About the Instructor<br /><br /><b>Breanna Niebel</b> is a graphic designer and animator with extensive background in creative software. She went to college in Vermont and attended grad school in Wales, United Kingdom. Her passions include animation, drawing, and learning new things. Breanna has used Inkscape to design and laser cut wooden earrings, which she now sells on her Etsy page.",
+            "end": {
+                "dateTime": "2019-10-08T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3137851195208000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MzFqYWJkcDhwOWc3NWowbGdnczhnMHRxc2JfMjAxOTEwMDhUMjMwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "31jabdp8p9g75j0lggs8g0tqsb@google.com",
+            "id": "31jabdp8p9g75j0lggs8g0tqsb_20191008T230000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-08T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "31jabdp8p9g75j0lggs8g0tqsb",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-08T19:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Digital Design for Makers: Vinyl Cutter",
+            "updated": "2019-09-19T20:39:57.604Z"
+        },
+        {
+            "created": "2019-09-19T22:04:43.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />Learn necessary foundations in general chemistry while also gaining lab experience.  Taught in partnership with MCPHS!<br /><br /> This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7.  Cost of $29 covers tuition and all materials. Take advantage of this great chemistry offer!<br />This class is designed for students with some, little, or no former experience with chemistry. Concepts introduced will include: the periodic table, atomic models, chemical reactions, and balancing equations. These concepts, along with the lab technique introduced, are a necessary foundation to later applications in general and advanced chemistry. All classes include hands on learning and/or science laboratories, with optional take home assignments and articles to suit your home school education plan. Lab titles for this class are the following: A Qualitative Analysis of Ions, Everyday pH Testing, and Water Quality. Daily discussions will make important connections to <br /><br />everyday events and relevant and current topics.<br /><br /><br />Designed for ages <b>11-17.</b> Students will be broken into lab groups by age and skill level. This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7. <br /><br /><br />Sign up on Eventbrite here:<br />https://www.eventbrite.com/e/chemistry-basics-tickets-73493716685",
+            "end": {
+                "dateTime": "2019-10-03T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3137861427068000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWo3c2hpMmExNXJ0dTh1dGZzMms5Zjc5ZjdfMjAxOTEwMDNUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1j7shi2a15rtu8utfs2k9f79f7@google.com",
+            "id": "1j7shi2a15rtu8utfs2k9f79f7_20191003T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-03T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1j7shi2a15rtu8utfs2k9f79f7",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-03T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-19T22:05:13.534Z"
+        },
+        {
+            "created": "2019-09-19T22:04:43.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />Learn necessary foundations in general chemistry while also gaining lab experience.  Taught in partnership with MCPHS!<br /><br /> This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7.  Cost of $29 covers tuition and all materials. Take advantage of this great chemistry offer!<br />This class is designed for students with some, little, or no former experience with chemistry. Concepts introduced will include: the periodic table, atomic models, chemical reactions, and balancing equations. These concepts, along with the lab technique introduced, are a necessary foundation to later applications in general and advanced chemistry. All classes include hands on learning and/or science laboratories, with optional take home assignments and articles to suit your home school education plan. Lab titles for this class are the following: A Qualitative Analysis of Ions, Everyday pH Testing, and Water Quality. Daily discussions will make important connections to <br /><br />everyday events and relevant and current topics.<br /><br /><br />Designed for ages <b>11-17.</b> Students will be broken into lab groups by age and skill level. This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7. <br /><br /><br />Sign up on Eventbrite here:<br />https://www.eventbrite.com/e/chemistry-basics-tickets-73493716685",
+            "end": {
+                "dateTime": "2019-10-10T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3137861427068000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWo3c2hpMmExNXJ0dTh1dGZzMms5Zjc5ZjdfMjAxOTEwMTBUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1j7shi2a15rtu8utfs2k9f79f7@google.com",
+            "id": "1j7shi2a15rtu8utfs2k9f79f7_20191010T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-10T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1j7shi2a15rtu8utfs2k9f79f7",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-10T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-19T22:05:13.534Z"
+        },
+        {
+            "created": "2019-09-19T22:04:43.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />Learn necessary foundations in general chemistry while also gaining lab experience.  Taught in partnership with MCPHS!<br /><br /> This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7.  Cost of $29 covers tuition and all materials. Take advantage of this great chemistry offer!<br />This class is designed for students with some, little, or no former experience with chemistry. Concepts introduced will include: the periodic table, atomic models, chemical reactions, and balancing equations. These concepts, along with the lab technique introduced, are a necessary foundation to later applications in general and advanced chemistry. All classes include hands on learning and/or science laboratories, with optional take home assignments and articles to suit your home school education plan. Lab titles for this class are the following: A Qualitative Analysis of Ions, Everyday pH Testing, and Water Quality. Daily discussions will make important connections to <br /><br />everyday events and relevant and current topics.<br /><br /><br />Designed for ages <b>11-17.</b> Students will be broken into lab groups by age and skill level. This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7. <br /><br /><br />Sign up on Eventbrite here:<br />https://www.eventbrite.com/e/chemistry-basics-tickets-73493716685",
+            "end": {
+                "dateTime": "2019-10-17T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3137861427068000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWo3c2hpMmExNXJ0dTh1dGZzMms5Zjc5ZjdfMjAxOTEwMTdUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1j7shi2a15rtu8utfs2k9f79f7@google.com",
+            "id": "1j7shi2a15rtu8utfs2k9f79f7_20191017T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-17T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1j7shi2a15rtu8utfs2k9f79f7",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-17T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-19T22:05:13.534Z"
+        },
+        {
+            "created": "2019-09-19T22:04:43.000Z",
+            "creator": {
+                "email": "lauren.monroe@technocopia.org"
+            },
+            "description": "<br />Learn necessary foundations in general chemistry while also gaining lab experience.  Taught in partnership with MCPHS!<br /><br /> This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7.  Cost of $29 covers tuition and all materials. Take advantage of this great chemistry offer!<br />This class is designed for students with some, little, or no former experience with chemistry. Concepts introduced will include: the periodic table, atomic models, chemical reactions, and balancing equations. These concepts, along with the lab technique introduced, are a necessary foundation to later applications in general and advanced chemistry. All classes include hands on learning and/or science laboratories, with optional take home assignments and articles to suit your home school education plan. Lab titles for this class are the following: A Qualitative Analysis of Ions, Everyday pH Testing, and Water Quality. Daily discussions will make important connections to <br /><br />everyday events and relevant and current topics.<br /><br /><br />Designed for ages <b>11-17.</b> Students will be broken into lab groups by age and skill level. This is a six class session, and runs Thursdays, 10am-12pm, from 10/3 - 11/7. <br /><br /><br />Sign up on Eventbrite here:<br />https://www.eventbrite.com/e/chemistry-basics-tickets-73493716685",
+            "end": {
+                "dateTime": "2019-10-24T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3137861427068000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWo3c2hpMmExNXJ0dTh1dGZzMms5Zjc5ZjdfMjAxOTEwMjRUMTQwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "1j7shi2a15rtu8utfs2k9f79f7@google.com",
+            "id": "1j7shi2a15rtu8utfs2k9f79f7_20191024T140000Z",
+            "kind": "calendar#event",
+            "location": "Technocopia, 44 Portland St, Worcester, MA 01608, USA",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-24T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "1j7shi2a15rtu8utfs2k9f79f7",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-24T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-19T22:05:13.534Z"
+        },
+        {
+            "created": "2019-08-15T02:04:57.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "description": "Family Friendly Movie brought to you by Technocopia&#39;s Homeschool Program.  Bring your own dinner or place a pizza order with us. $2.00 per slice, all profits go toward a Homeschool Ed Scholarship.<br /><br /><br />This Friday, 10/4 will feature. <b>Ponyo</b>, a Japanese animated fantasy film!<br />Free popcorn for all!",
+            "end": {
+                "dateTime": "2019-10-04T20:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3138508781192000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NWhmNWMwNWxmOHJ1cXRrZXRrZ3FicGVydXVfMjAxOTEwMDRUMjIwMDAwWiB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "5hf5c05lf8ruqtketkgqbperuu@google.com",
+            "id": "5hf5c05lf8ruqtketkgqbperuu_20191004T220000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-04T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "5hf5c05lf8ruqtketkgqbperuu",
+            "sequence": 0,
+            "start": {
+                "dateTime": "2019-10-04T18:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Family Movie Night (Think Tank)",
+            "updated": "2019-09-23T15:59:50.596Z"
+        },
+        {
+            "created": "2019-09-26T17:14:31.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "end": {
+                "dateTime": "2019-10-03T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3139036144316000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=YzlpM2lkMW5jNHFtNmJiNGNwaDM4YjlrY2NvajZiOXA2OHIzOGI5azY0b2phZGhtNzVpbWNkMWpja18yMDE5MTAwM1QxNDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck@google.com",
+            "id": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck_20191003T140000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-03T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-03T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "tentative",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-26T17:14:32.158Z"
+        },
+        {
+            "created": "2019-09-26T17:14:31.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "end": {
+                "dateTime": "2019-10-10T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3139036144316000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=YzlpM2lkMW5jNHFtNmJiNGNwaDM4YjlrY2NvajZiOXA2OHIzOGI5azY0b2phZGhtNzVpbWNkMWpja18yMDE5MTAxMFQxNDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck@google.com",
+            "id": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck_20191010T140000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-10T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-10T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "tentative",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-26T17:14:32.158Z"
+        },
+        {
+            "created": "2019-09-26T17:14:31.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "end": {
+                "dateTime": "2019-10-17T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3139036144316000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=YzlpM2lkMW5jNHFtNmJiNGNwaDM4YjlrY2NvajZiOXA2OHIzOGI5azY0b2phZGhtNzVpbWNkMWpja18yMDE5MTAxN1QxNDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck@google.com",
+            "id": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck_20191017T140000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-17T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-17T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "tentative",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-26T17:14:32.158Z"
+        },
+        {
+            "created": "2019-09-26T17:14:31.000Z",
+            "creator": {
+                "email": "sidnordstrom@gmail.com"
+            },
+            "end": {
+                "dateTime": "2019-10-24T12:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3139036144316000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=YzlpM2lkMW5jNHFtNmJiNGNwaDM4YjlrY2NvajZiOXA2OHIzOGI5azY0b2phZGhtNzVpbWNkMWpja18yMDE5MTAyNFQxNDAwMDBaIHRlY2hub2NvcGlhLm9yZ182ZzlhNTE3MzJhZTE0ZjY5czFqcThoNXVkc0Bn&ctz=America/New_York",
+            "iCalUID": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck@google.com",
+            "id": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck_20191024T140000Z",
+            "kind": "calendar#event",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "originalStartTime": {
+                "dateTime": "2019-10-24T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "recurringEventId": "c9i3id1nc4qm6bb4cph38b9kccoj6b9p68r38b9k64ojadhm75imcd1jck",
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-10-24T10:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "tentative",
+            "summary": "Chemistry Basics (Think Tank Classroom)",
+            "updated": "2019-09-26T17:14:32.158Z"
+        },
+        {
+            "created": "2019-09-28T17:59:25.000Z",
+            "creator": {
+                "email": "mike.dangelo@technocopia.org"
+            },
+            "description": "Requested by Alex Approved by Mike 9/28",
+            "end": {
+                "dateTime": "2019-09-29T21:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "etag": "\"3139387131194000\"",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjRwamdkajI2Y28zOGI5azY5aTZjYjlrY2tyMzhiOXA3MHAzZWJiNWM0b2phbzloY2dxNjZkajNjZyB0ZWNobm9jb3BpYS5vcmdfNmc5YTUxNzMyYWUxNGY2OXMxanE4aDV1ZHNAZw&ctz=America/New_York",
+            "iCalUID": "64pjgdj26co38b9k69i6cb9kckr38b9p70p3ebb5c4ojao9hcgq66dj3cg@google.com",
+            "id": "64pjgdj26co38b9k69i6cb9kckr38b9p70p3ebb5c4ojao9hcgq66dj3cg",
+            "kind": "calendar#event",
+            "location": "Think Tank Classroom",
+            "organizer": {
+                "displayName": "Technocopia Event Calendar",
+                "email": "technocopia.org_6g9a51732ae14f69s1jq8h5uds@group.calendar.google.com",
+                "self": true
+            },
+            "sequence": 1,
+            "start": {
+                "dateTime": "2019-09-29T15:00:00-04:00",
+                "timeZone": "America/New_York"
+            },
+            "status": "tentative",
+            "summary": "DND Group",
+            "updated": "2019-09-28T17:59:25.597Z"
+        }
+    ],
+    "kind": "calendar#events",
+    "nextSyncToken": "CMjqiJuM9OQCEAAYAQ==",
+    "summary": "Technocopia Event Calendar",
+    "timeZone": "America/New_York",
+    "updated": "2019-09-28T17:59:25.597Z"
+}
