@@ -22,7 +22,11 @@ const testSlides = [
 ];
 */
 
-const testTicker = 'Terrific to end our collaborative workspace tour with a visit to YouthBuild Worcester members - these young folks, trained in construction and other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc';
+// const testTicker = `Terrific to end our collaborative workspace tour with a visit
+// to YouthBuild Worcester members - these young folks, trained in construction and
+// other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc`;
+
+const testTicker = '';
 
 app.get('/api/fetch', async (req, res) => {
   // const results = await upcomingEvents();
@@ -30,7 +34,6 @@ app.get('/api/fetch', async (req, res) => {
   res.send(results);
 });
 
-// app.get('/api/carousel/slides', (req, res) => res.send(testSlides));
 app.get('/api/carousel/slides', async (req, res) => {
   const slides = await getSlides();
   res.send(slides);
