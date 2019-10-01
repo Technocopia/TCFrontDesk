@@ -3,8 +3,7 @@
   width: 100vw;
   height: 100vh;
   flex-direction: column;
-  background-image: linear-gradient(141deg,#9fb8ad,#337c84 51%,#04afef 75%);
- 
+  background-image: linear-gradient(to right, rgb(79, 172, 254) 0%, rgb(0, 242, 254) 100%);
   &-carousel {
     display: flex;
     width: 100%;

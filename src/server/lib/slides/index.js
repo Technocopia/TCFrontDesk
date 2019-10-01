@@ -44,7 +44,7 @@ const MOCK_AGENDA_SLIDE_1 = {
 };
 */
 
-const EVENTS_PER_SLIDE = 4;
+const EVENTS_PER_SLIDE = 5;
 
 const getSlides = async () => {
   const allEventsPromise = upcomingEvents();
