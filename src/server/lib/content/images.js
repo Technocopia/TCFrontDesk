@@ -4,23 +4,22 @@ const mockImageData = require('./__mocks__/data/images.json');
 
 const getFeedUrl = () => 'https://www.instagram.com/technocopia/';
 
-const DEV = true;
+// const DEV = true;
+const DEV = false;
 
 // use var for now so it can be rewired in a test
 // TODO: find a better solution
 // eslint-disable-next-line no-var
 var fetchData = async () => {
-  let content = {};
-
   try {
     const url = getFeedUrl();
     const response = await fetch(url);
-    const json = await response.json();
-    content = json;
-  } catch (err) {
-    content.error = err.message;
+    const html = await response.text();
+    const jsonString = html.match(/<script type="text\/javascript">window\._sharedData = (.*)<\/script>/)[1].slice(0, -1);
+    return JSON.parse(jsonString);
+  } catch ({ message }) {
+    return { error: message };
   }
-  return content;
 };
 
 const recentImages = async () => {
@@ -31,6 +30,8 @@ const recentImages = async () => {
     JSONData = await fetchData();
   }
 
+
+  // also: https://codelike.pro/fetch-instagram-posts-from-profile-without-__a-parameter/
   const edges = get(JSONData, 'entry_data.ProfilePage[0].graphql.user.edge_owner_to_timeline_media.edges');
   if (!edges) {
     throw new Error('No Data');

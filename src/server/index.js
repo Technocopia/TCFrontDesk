@@ -1,44 +1,32 @@
 const express = require('express');
-// const { upcomingEvents } = require('./lib/content/calendar');
+const cache = require('memory-cache');
 const { getSlides } = require('./lib/slides');
 
 const app = express();
 
 app.use(express.static('dist'));
 
-/*
-const testSlides = [
-  MOCK_IMG_SLIDE_1,
-  MOCK_IFRAME_SLIDE_1,
-  MOCK_AGENDA_SLIDE_1,
-  MOCK_IMG_SLIDE_1,
-  MOCK_IMG_SLIDE_2,
-  MOCK_AGENDA_SLIDE_1,
-  MOCK_IMG_SLIDE_3,
-  MOCK_IMG_SLIDE_4,
-  MOCK_AGENDA_SLIDE_1,
-  MOCK_IMG_SLIDE_5,
-  MOCK_IMG_SLIDE_3,
-];
-*/
+const CACHE_MINUTES = 10;
+const CACHE_TIMEOUT = 1000 * 60 * CACHE_MINUTES;
 
-// const testTicker = `Terrific to end our collaborative workspace tour with a visit
+// const tickerText = `Terrific to end our collaborative workspace tour with a visit
 // to YouthBuild Worcester members - these young folks, trained in construction and
 // other trades, built out the last third of the @Technocopia facility.  @TRAmerica_Inc`;
 
-const testTicker = '';
-
-app.get('/api/fetch', async (req, res) => {
-  // const results = await upcomingEvents();
-  const results = await getSlides();
-  res.send(results);
-});
+const tickerText = '';
 
 app.get('/api/carousel/slides', async (req, res) => {
+  const cachedSlides = cache.get('slides');
+  if (cachedSlides) {
+    console.info('pulling slides from cache');
+    res.send(cachedSlides);
+    return;
+  }
   const slides = await getSlides();
-  res.send(slides);
+  console.info('regenerating slides');
+  res.send(cache.put('slides', slides, CACHE_TIMEOUT));
 });
 
-app.get('/api/ticker', (req, res) => res.send(JSON.stringify(testTicker)));
+app.get('/api/ticker', (req, res) => res.send(JSON.stringify(tickerText)));
 
 app.listen(process.env.PORT || 9001, () => console.log(`Listening on port ${process.env.PORT || 9001}!`));

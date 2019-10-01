@@ -60,7 +60,7 @@ const getSlides = async () => {
   const imageSlides = (eventSlides.length <= allImages.length)
     ? take(allImages, eventSlides.length)
     : times(eventSlides.length, index => allImages[index % allImages.length]);
-  console.log(imageSlides);
+
   return flatten(zip(eventSlides, imageSlides));
 };
 
